@@ -1,0 +1,186 @@
+{
+  "id": "icelandic-sheepdog",
+  "url": "https://dogtime.com/dog-breeds/icelandic-sheepdog",
+  "name": "Icelandic Sheepdog",
+  "intro": "Thought to be companions to the ancient Vikings, the Icelandic Sheepdog breed was used to protect flocks, especially lambs, from birds of prey. They still retain the habit of watching the sky and barking at birds \u2014 as well as everything else they see or hear.\nThis breed is also known as the Icelandic Spitz or Icelandic Dog. Even though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nIcelandic Sheepdogs are very affectionate with their humans, and as you may have guessed, they do well in colder climates. However, novice pet parents should beware. These dogs have high energy and won\u2019t take as well to apartment life. If you can provide plenty of exercise and open space, along with experienced and consistent training, then this might be the dog for you!\nSee below for complete list of dog breed traits and facts about Icelandic Sheepdogs!",
+  "description": {
+    "": "It's thought that invading Vikings brought the ancestors of this breed with them to Iceland in the ninth century. Thanks to the isolation of Iceland, today's Icelandic Sheepdogs \u2014 also called the Icelandic Spitz or Icelandic Dog \u2014 probably look a lot like their ancestors.For centuries the Icelandic Sheepdog was used to protect flocks, especially lambs, from birds of prey, and to this day he retains the habit of watching the sky and barking at birds. He also barks to alert his family to anything and everything that he sees or hears. He's too friendly to be much of a guard dog, but you'll never be surprised by visitors.Affectionate, confident, and playful, the Icelandic Sheepdog gets along well with people and other dogs. Males tend to be more laidback and cuddly than females. Trained with consistency and patience, Icelandics learn quickly and willingly.",
+    "Size": "The Icelandic Sheepdog is just shy of being a medium-sized dog. Males stand about 18 inches at the shoulder, females stand 16.5 inches. Weight is in proportion to height, ranging from about 20 to 30 pounds.",
+    "Coat Color And Grooming": "The thick double coat of the Icelandic Sheepdog is very waterproof and can be one of two lengths: medium or longer, always with a thick, soft undercoat. It can be straight or slightly wavy, and it comes in several colors \u2014 shades of tan, ranging from cream to reddish brown; chocolate brown, gray; and black \u2014 all with white markings and sometimes with a black mask. The tail is very bushy. Weekly brushing will keep the coat in good shape."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "16 to 18 inchestall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "20 to 30 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "14 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

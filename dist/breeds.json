@@ -1,0 +1,2336 @@
+[
+  {
+    "id": "afador",
+    "name": "Afador",
+    "url": "https://dogtime.com/dog-breeds/afador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/afador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "affenhuahua",
+    "name": "Affenhuahua",
+    "url": "https://dogtime.com/dog-breeds/affenhuahua",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/affenhuahua-mixed-dog-breed-pictures-COVER-650x368.jpg"
+  },
+  {
+    "id": "affenpinscher",
+    "name": "Affenpinscher",
+    "url": "https://dogtime.com/dog-breeds/affenpinscher",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23096_affenpinscher-300x189.jpg"
+  },
+  {
+    "id": "afghan-hound",
+    "name": "Afghan Hound",
+    "url": "https://dogtime.com/dog-breeds/afghan-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23004_afghan-hound-300x189.jpg"
+  },
+  {
+    "id": "airedale-terrier",
+    "name": "Airedale Terrier",
+    "url": "https://dogtime.com/dog-breeds/airedale-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23050_airedale-terrier-300x189.jpg"
+  },
+  {
+    "id": "akbash",
+    "name": "Akbash",
+    "url": "https://dogtime.com/dog-breeds/akbash",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/akbash-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "akita",
+    "name": "Akita",
+    "url": "https://dogtime.com/dog-breeds/akita",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22906_akita-300x189.jpg"
+  },
+  {
+    "id": "akita-chow",
+    "name": "Akita Chow",
+    "url": "https://dogtime.com/dog-breeds/akita-chow",
+    "image": "https://www.dogtime.com/assets/uploads/2020/04/akita-chow-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "akita-pit",
+    "name": "Akita Pit",
+    "url": "https://dogtime.com/dog-breeds/akita-pit",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/akita-pit-mixed-dog-breed-pictures-COVER-650x368.jpg"
+  },
+  {
+    "id": "akita-shepherd",
+    "name": "Akita Shepherd",
+    "url": "https://dogtime.com/dog-breeds/akita-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/akita-shepherd-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "alaskan-klee-kai",
+    "name": "Alaskan Klee Kai",
+    "url": "https://dogtime.com/dog-breeds/alaskan-klee-kai",
+    "image": "https://www.dogtime.com/assets/uploads/2017/11/alaskan-klee-kai-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "alaskan-malamute",
+    "name": "Alaskan Malamute",
+    "url": "https://dogtime.com/dog-breeds/alaskan-malamute",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22908_alaskan-malamute-300x189.jpg"
+  },
+  {
+    "id": "american-bulldog",
+    "name": "American Bulldog",
+    "url": "https://dogtime.com/dog-breeds/american-bulldog",
+    "image": "https://www.dogtime.com/assets/uploads/2017/12/american-bulldog-breed-pictures-9-650x368.jpg"
+  },
+  {
+    "id": "american-english-coonhound",
+    "name": "American English Coonhound",
+    "url": "https://dogtime.com/dog-breeds/american-english-coonhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23236_american-english-coonhound-300x189.jpg"
+  },
+  {
+    "id": "american-eskimo-dog",
+    "name": "American Eskimo Dog",
+    "url": "https://dogtime.com/dog-breeds/american-eskimo-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23134_american-eskimo-dog-300x189.jpg"
+  },
+  {
+    "id": "american-foxhound",
+    "name": "American Foxhound",
+    "url": "https://dogtime.com/dog-breeds/american-foxhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23006_american-foxhound-300x189.jpg"
+  },
+  {
+    "id": "american-hairless-terrier",
+    "name": "American Hairless Terrier",
+    "url": "https://dogtime.com/dog-breeds/american-hairless-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2020/04/american-hairless-terrier-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "american-leopard-hound",
+    "name": "American Leopard Hound",
+    "url": "https://dogtime.com/dog-breeds/american-leopard-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/american-leopard-hound-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "american-pit-bull-terrier",
+    "name": "American Pit Bull Terrier",
+    "url": "https://dogtime.com/dog-breeds/american-pit-bull-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23052_pitbull-dog-breed-pittie-300x189.jpg"
+  },
+  {
+    "id": "american-pugabull",
+    "name": "American Pugabull",
+    "url": "https://dogtime.com/dog-breeds/american-pugabull",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/american-pugabull-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "american-staffordshire-terrier",
+    "name": "American Staffordshire Terrier",
+    "url": "https://dogtime.com/dog-breeds/american-staffordshire-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2018/01/american-staffordshire-terrier-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "american-water-spaniel",
+    "name": "American Water Spaniel",
+    "url": "https://dogtime.com/dog-breeds/american-water-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22954_american-water-spaniel-300x189.jpg"
+  },
+  {
+    "id": "anatolian-shepherd-dog",
+    "name": "Anatolian Shepherd Dog",
+    "url": "https://dogtime.com/dog-breeds/anatolian-shepherd-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22910_anatolian-shepherd-dog-300x189.jpg"
+  },
+  {
+    "id": "appenzeller-sennenhunde",
+    "name": "Appenzeller Sennenhunde",
+    "url": "https://dogtime.com/dog-breeds/appenzeller-sennenhunde",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23244_what-is-the-appenzeller-sennenhunde-dog-300x189.jpg"
+  },
+  {
+    "id": "auggie",
+    "name": "Auggie",
+    "url": "https://dogtime.com/dog-breeds/auggie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/auggie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "aussiedoodle",
+    "name": "Aussiedoodle",
+    "url": "https://dogtime.com/dog-breeds/aussiedoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/aussiedoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "aussiepom",
+    "name": "Aussiepom",
+    "url": "https://dogtime.com/dog-breeds/aussiepom",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/aussiepom-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-cattle-dog",
+    "name": "Australian Cattle Dog",
+    "url": "https://dogtime.com/dog-breeds/australian-cattle-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23166_australian-cattle-dog-300x189.jpg"
+  },
+  {
+    "id": "australian-kelpie",
+    "name": "Australian Kelpie",
+    "url": "https://dogtime.com/dog-breeds/australian-kelpie",
+    "image": "https://www.dogtime.com/assets/uploads/2018/04/australian-kelpie-dog-breed-pictures-header-650x368.jpg"
+  },
+  {
+    "id": "australian-retriever",
+    "name": "Australian Retriever",
+    "url": "https://dogtime.com/dog-breeds/australian-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/australian-retriever-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-shepherd",
+    "name": "Australian Shepherd",
+    "url": "https://dogtime.com/dog-breeds/australian-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23168_australian-shepherd-300x189.jpg"
+  },
+  {
+    "id": "australian-shepherd-husky",
+    "name": "Australian Shepherd Husky",
+    "url": "https://dogtime.com/dog-breeds/australian-shepherd-husky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/australian-shepherd-husky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-shepherd-lab-mix",
+    "name": "Australian Shepherd Lab Mix",
+    "url": "https://dogtime.com/dog-breeds/australian-shepherd-lab-mix",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/australian-shepherd-lab-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-shepherd-pit-bull-mix",
+    "name": "Australian Shepherd Pit Bull Mix",
+    "url": "https://dogtime.com/dog-breeds/australian-shepherd-pit-bull-mix",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/australian-shepherd-pit-bull-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-stumpy-tail-cattle-dog",
+    "name": "Australian Stumpy Tail Cattle Dog",
+    "url": "https://dogtime.com/dog-breeds/australian-stumpy-tail-cattle-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/Australian-Stumpy-Tail-Cattle-Dog-cover-650x368.jpg"
+  },
+  {
+    "id": "australian-terrier",
+    "name": "Australian Terrier",
+    "url": "https://dogtime.com/dog-breeds/australian-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23054_australian-terrier-300x189.jpg"
+  },
+  {
+    "id": "azawakh",
+    "name": "Azawakh",
+    "url": "https://dogtime.com/dog-breeds/azawakh",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23286_azawakh-300x189.jpg"
+  },
+  {
+    "id": "barbet",
+    "name": "Barbet",
+    "url": "https://dogtime.com/dog-breeds/barbet",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23288_barbet-300x189.jpg"
+  },
+  {
+    "id": "basenji",
+    "name": "Basenji",
+    "url": "https://dogtime.com/dog-breeds/basenji",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23008_basenji-300x189.jpg"
+  },
+  {
+    "id": "bassador",
+    "name": "Bassador",
+    "url": "https://dogtime.com/dog-breeds/bassador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/bassador-mixed-breed-dog-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "basset-fauve-de-bretagne",
+    "name": "Basset Fauve de Bretagne",
+    "url": "https://dogtime.com/dog-breeds/basset-fauve-de-bretagne",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/Basset-Fauve-de-Bretagne-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "basset-hound",
+    "name": "Basset Hound",
+    "url": "https://dogtime.com/dog-breeds/basset-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23010_basset-hound-300x189.jpg"
+  },
+  {
+    "id": "basset-retriever",
+    "name": "Basset Retriever",
+    "url": "https://dogtime.com/dog-breeds/basset-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/basset-retriever-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bavarian-mountain-scent-hound",
+    "name": "Bavarian Mountain Scent Hound",
+    "url": "https://dogtime.com/dog-breeds/bavarian-mountain-scent-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/Bavarian-Mountain-Scent-Hound-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "beabull",
+    "name": "Beabull",
+    "url": "https://dogtime.com/dog-breeds/beabull",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/beabull-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "beagle",
+    "name": "Beagle",
+    "url": "https://dogtime.com/dog-breeds/beagle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23012_beagle-300x189.jpg"
+  },
+  {
+    "id": "beaglier",
+    "name": "Beaglier",
+    "url": "https://dogtime.com/dog-breeds/beaglier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/beaglier-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bearded-collie",
+    "name": "Bearded Collie",
+    "url": "https://dogtime.com/dog-breeds/bearded-collie",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23170_bearded-collie-300x189.jpg"
+  },
+  {
+    "id": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "url": "https://dogtime.com/dog-breeds/bedlington-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23056_bedlington-terrier-300x189.jpg"
+  },
+  {
+    "id": "belgian-laekenois",
+    "name": "Belgian Laekenois",
+    "url": "https://dogtime.com/dog-breeds/belgian-laekenois",
+    "image": "https://www.dogtime.com/assets/uploads/2020/10/Belgian-Laekenois-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "belgian-malinois",
+    "name": "Belgian Malinois",
+    "url": "https://dogtime.com/dog-breeds/belgian-malinois",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23172_belgian-malinois-300x189.jpg"
+  },
+  {
+    "id": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/belgian-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23174_belgian-sheepdog-300x189.jpg"
+  },
+  {
+    "id": "belgian-tervuren",
+    "name": "Belgian Tervuren",
+    "url": "https://dogtime.com/dog-breeds/belgian-tervuren",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23176_belgian-tervuren-300x189.jpg"
+  },
+  {
+    "id": "bergamasco-sheepdog",
+    "name": "Bergamasco Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/bergamasco-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/Bergamasco-Sheepdog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "berger-picard",
+    "name": "Berger Picard",
+    "url": "https://dogtime.com/dog-breeds/berger-picard",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23290_berger-picard-300x189.jpg"
+  },
+  {
+    "id": "bernedoodle",
+    "name": "Bernedoodle",
+    "url": "https://dogtime.com/dog-breeds/bernedoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2017/10/bernedoodle-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bernese-mountain-dog",
+    "name": "Bernese Mountain Dog",
+    "url": "https://dogtime.com/dog-breeds/bernese-mountain-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22912_bernese-mountain-dog-300x189.jpg"
+  },
+  {
+    "id": "bichon-frise",
+    "name": "Bichon Frise",
+    "url": "https://dogtime.com/dog-breeds/bichon-frise",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23136_bichon-frise-300x189.jpg"
+  },
+  {
+    "id": "biewer-terrier",
+    "name": "Biewer Terrier",
+    "url": "https://dogtime.com/dog-breeds/biewer-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/biewer-terrier-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "black-and-tan-coonhound",
+    "name": "Black and Tan Coonhound",
+    "url": "https://dogtime.com/dog-breeds/black-and-tan-coonhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23014_black-and-tan-coonhound-300x189.jpg"
+  },
+  {
+    "id": "black-mouth-cur",
+    "name": "Black Mouth Cur",
+    "url": "https://dogtime.com/dog-breeds/black-mouth-cur",
+    "image": "https://www.dogtime.com/assets/uploads/2017/11/black-mouth-cur-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "black-russian-terrier",
+    "name": "Black Russian Terrier",
+    "url": "https://dogtime.com/dog-breeds/black-russian-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22914_black-russian-terrier-300x189.jpg"
+  },
+  {
+    "id": "bloodhound",
+    "name": "Bloodhound",
+    "url": "https://dogtime.com/dog-breeds/bloodhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23016_bloodhound-300x189.jpg"
+  },
+  {
+    "id": "blue-lacy",
+    "name": "Blue Lacy",
+    "url": "https://dogtime.com/dog-breeds/blue-lacy",
+    "image": "https://www.dogtime.com/assets/uploads/2018/04/blue-lacy-dog-breed-pictures-header-650x368.jpg"
+  },
+  {
+    "id": "bluetick-coonhound",
+    "name": "Bluetick Coonhound",
+    "url": "https://dogtime.com/dog-breeds/bluetick-coonhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23238_bluetick-coonhound-300x189.jpg"
+  },
+  {
+    "id": "bocker",
+    "name": "Bocker",
+    "url": "https://dogtime.com/dog-breeds/bocker",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/bocker-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boerboel",
+    "name": "Boerboel",
+    "url": "https://dogtime.com/dog-breeds/boerboel",
+    "image": "https://www.dogtime.com/assets/uploads/2018/01/boerboel-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boglen-terrier",
+    "name": "Boglen Terrier",
+    "url": "https://dogtime.com/dog-breeds/boglen-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/boglen-terrier-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bohemian-shepherd",
+    "name": "Bohemian Shepherd",
+    "url": "https://dogtime.com/dog-breeds/bohemian-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2020/04/Bohemian-Shepherd-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bolognese",
+    "name": "Bolognese",
+    "url": "https://dogtime.com/dog-breeds/bolognese",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23240_bolognese-300x189.jpg"
+  },
+  {
+    "id": "borador",
+    "name": "Borador",
+    "url": "https://dogtime.com/dog-breeds/borador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/borador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "border-collie",
+    "name": "Border Collie",
+    "url": "https://dogtime.com/dog-breeds/border-collie",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23178_border-collie-300x189.jpg"
+  },
+  {
+    "id": "border-sheepdog",
+    "name": "Border Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/border-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/border-sheepdog-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "border-terrier",
+    "name": "Border Terrier",
+    "url": "https://dogtime.com/dog-breeds/border-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23058_border-terrier-300x189.jpg"
+  },
+  {
+    "id": "bordoodle",
+    "name": "Bordoodle",
+    "url": "https://dogtime.com/dog-breeds/bordoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/bordoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "borzoi",
+    "name": "Borzoi",
+    "url": "https://dogtime.com/dog-breeds/borzoi",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23018_borzoi-300x189.jpg"
+  },
+  {
+    "id": "boshih",
+    "name": "BoShih",
+    "url": "https://dogtime.com/dog-breeds/boshih",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/boshih-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bossie",
+    "name": "Bossie",
+    "url": "https://dogtime.com/dog-breeds/bossie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/bossie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boston-boxer",
+    "name": "Boston Boxer",
+    "url": "https://dogtime.com/dog-breeds/boston-boxer",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/boston-boxer-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boston-terrier",
+    "name": "Boston Terrier",
+    "url": "https://dogtime.com/dog-breeds/boston-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23138_boston-terrier-300x189.jpg"
+  },
+  {
+    "id": "boston-terrier-pekingese-mix",
+    "name": "Boston Terrier Pekingese Mix",
+    "url": "https://dogtime.com/dog-breeds/boston-terrier-pekingese-mix",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/Boston-Terrier-Pekingese-Mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "url": "https://dogtime.com/dog-breeds/bouvier-des-flandres",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23180_bouvier-des-flandres-300x189.jpg"
+  },
+  {
+    "id": "boxador",
+    "name": "Boxador",
+    "url": "https://dogtime.com/dog-breeds/boxador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/boxador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boxer",
+    "name": "Boxer",
+    "url": "https://dogtime.com/dog-breeds/boxer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22916_boxer-300x189.jpg"
+  },
+  {
+    "id": "boxerdoodle",
+    "name": "Boxerdoodle",
+    "url": "https://dogtime.com/dog-breeds/boxerdoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/boxerdoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boxmatian",
+    "name": "Boxmatian",
+    "url": "https://dogtime.com/dog-breeds/boxmatian",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/boxmatian-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boxweiler",
+    "name": "Boxweiler",
+    "url": "https://dogtime.com/dog-breeds/boxweiler",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/boxweiler-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "boykin-spaniel",
+    "name": "Boykin Spaniel",
+    "url": "https://dogtime.com/dog-breeds/boykin-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23242_boykin-spaniel-300x189.jpg"
+  },
+  {
+    "id": "bracco-italiano",
+    "name": "Bracco Italiano",
+    "url": "https://dogtime.com/dog-breeds/bracco-italiano",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/Bracco-Italiano-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "braque-du-bourbonnais",
+    "name": "Braque du Bourbonnais",
+    "url": "https://dogtime.com/dog-breeds/braque-du-bourbonnais",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/Braque-du-Bourbonnais-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "briard",
+    "name": "Briard",
+    "url": "https://dogtime.com/dog-breeds/briard",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23182_briard-300x189.jpg"
+  },
+  {
+    "id": "brittany",
+    "name": "Brittany",
+    "url": "https://dogtime.com/dog-breeds/brittany",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22956_brittany-300x189.jpg"
+  },
+  {
+    "id": "broholmer",
+    "name": "Broholmer",
+    "url": "https://dogtime.com/dog-breeds/broholmer",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/Broholmer-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "brussels-griffon",
+    "name": "Brussels Griffon",
+    "url": "https://dogtime.com/dog-breeds/brussels-griffon",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23098_brussels-griffon-300x189.jpg"
+  },
+  {
+    "id": "bugg",
+    "name": "Bugg",
+    "url": "https://dogtime.com/dog-breeds/bugg",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/bugg-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bull-arab",
+    "name": "Bull Arab",
+    "url": "https://dogtime.com/dog-breeds/bull-arab",
+    "image": "https://www.dogtime.com/assets/uploads/2020/10/breeds-not-recognized-kennel-clubs-3-650x368.jpg"
+  },
+  {
+    "id": "bull-pei",
+    "name": "Bull-Pei",
+    "url": "https://dogtime.com/dog-breeds/bull-pei",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/bull-pei-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bull-terrier",
+    "name": "Bull Terrier",
+    "url": "https://dogtime.com/dog-breeds/bull-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23060_bull-terrier-300x189.jpg"
+  },
+  {
+    "id": "bullador",
+    "name": "Bullador",
+    "url": "https://dogtime.com/dog-breeds/bullador",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/bullador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bullboxer-pit",
+    "name": "Bullboxer Pit",
+    "url": "https://dogtime.com/dog-breeds/bullboxer-pit",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/bullboxer-pit-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "bulldog",
+    "name": "Bulldog",
+    "url": "https://dogtime.com/dog-breeds/bulldog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23140_bulldog-300x189.jpg"
+  },
+  {
+    "id": "bullmastiff",
+    "name": "Bullmastiff",
+    "url": "https://dogtime.com/dog-breeds/bullmastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22918_bullmastiff-300x189.jpg"
+  },
+  {
+    "id": "bullmatian",
+    "name": "Bullmatian",
+    "url": "https://dogtime.com/dog-breeds/bullmatian",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/bullmation-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "url": "https://dogtime.com/dog-breeds/cairn-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23062_cairn-terrier-300x189.jpg"
+  },
+  {
+    "id": "canaan-dog",
+    "name": "Canaan Dog",
+    "url": "https://dogtime.com/dog-breeds/canaan-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23184_canaan-dog-300x189.jpg"
+  },
+  {
+    "id": "cane-corso",
+    "name": "Cane Corso",
+    "url": "https://dogtime.com/dog-breeds/cane-corso",
+    "image": "https://www.dogtime.com/assets/uploads/2014/08/file_23300_cane-corso-dog-breed-650x410.jpg"
+  },
+  {
+    "id": "cardigan-welsh-corgi",
+    "name": "Cardigan Welsh Corgi",
+    "url": "https://dogtime.com/dog-breeds/cardigan-welsh-corgi",
+    "image": "https://www.dogtime.com/assets/uploads/2011/11/file_23294_cardigan-welsh-corgi-300x189.jpg"
+  },
+  {
+    "id": "carolina-dog",
+    "name": "Carolina Dog",
+    "url": "https://dogtime.com/dog-breeds/carolina-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/04/carolina-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "catahoula-bulldog",
+    "name": "Catahoula Bulldog",
+    "url": "https://dogtime.com/dog-breeds/catahoula-bulldog",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/catahoula-bulldog-mixed-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "catahoula-leopard-dog",
+    "name": "Catahoula Leopard Dog",
+    "url": "https://dogtime.com/dog-breeds/catahoula-leopard-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23278_catahoula-leopard-dog-300x189.jpg"
+  },
+  {
+    "id": "caucasian-shepherd-dog",
+    "name": "Caucasian Shepherd Dog",
+    "url": "https://dogtime.com/dog-breeds/caucasian-shepherd-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2018/01/caucasian-shepherd-dog-breed-pictures-cover-650x369.jpg"
+  },
+  {
+    "id": "cav-a-jack",
+    "name": "Cav-a-Jack",
+    "url": "https://dogtime.com/dog-breeds/cav-a-jack",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/cav-a-jack-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cavachon",
+    "name": "Cavachon",
+    "url": "https://dogtime.com/dog-breeds/cavachon",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/cavachon-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cavador",
+    "name": "Cavador",
+    "url": "https://dogtime.com/dog-breeds/cavador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/cavador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cavalier-king-charles-spaniel",
+    "name": "Cavalier King Charles Spaniel",
+    "url": "https://dogtime.com/dog-breeds/cavalier-king-charles-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23100_cavalier-king-charles-spaniel-300x189.jpg"
+  },
+  {
+    "id": "cavapoo",
+    "name": "Cavapoo",
+    "url": "https://dogtime.com/dog-breeds/cavapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/cavapoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "central-asian-shepherd-dog",
+    "name": "Central Asian Shepherd Dog",
+    "url": "https://dogtime.com/dog-breeds/central-asian-shepherd-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/06/central-asian-shepherd-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cesky-terrier",
+    "name": "Cesky Terrier",
+    "url": "https://dogtime.com/dog-breeds/cesky-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23270_cesky-terrier-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "chabrador",
+    "name": "Chabrador",
+    "url": "https://dogtime.com/dog-breeds/chabrador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/chabrador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cheagle",
+    "name": "Cheagle",
+    "url": "https://dogtime.com/dog-breeds/cheagle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/cheagle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chesapeake-bay-retriever",
+    "name": "Chesapeake Bay Retriever",
+    "url": "https://dogtime.com/dog-breeds/chesapeake-bay-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22958_chesapeake-bay-retriever-300x189.jpg"
+  },
+  {
+    "id": "chi-chi",
+    "name": "Chi Chi",
+    "url": "https://dogtime.com/dog-breeds/chi-chi",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/chi-chi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chi-poo",
+    "name": "Chi-Poo",
+    "url": "https://dogtime.com/dog-breeds/chi-poo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/chi-poo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chigi",
+    "name": "Chigi",
+    "url": "https://dogtime.com/dog-breeds/chigi",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/chigi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chihuahua",
+    "name": "Chihuahua",
+    "url": "https://dogtime.com/dog-breeds/chihuahua",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23102_chihuahua-300x189.jpg"
+  },
+  {
+    "id": "chilier",
+    "name": "Chilier",
+    "url": "https://dogtime.com/dog-breeds/chilier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/chilier-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chinese-crested",
+    "name": "Chinese Crested",
+    "url": "https://dogtime.com/dog-breeds/chinese-crested",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23104_17524831-300x189.jpg"
+  },
+  {
+    "id": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "url": "https://dogtime.com/dog-breeds/chinese-shar-pei",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23142_chinese-shar-pei-300x189.jpg"
+  },
+  {
+    "id": "chinook",
+    "name": "Chinook",
+    "url": "https://dogtime.com/dog-breeds/chinook",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23232_chinook-300x189.jpg"
+  },
+  {
+    "id": "chion",
+    "name": "Chion",
+    "url": "https://dogtime.com/dog-breeds/chion",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/chion-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chipin",
+    "name": "Chipin",
+    "url": "https://dogtime.com/dog-breeds/chipin",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/chipin-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chiweenie",
+    "name": "Chiweenie",
+    "url": "https://dogtime.com/dog-breeds/chiweenie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/chiweenie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chorkie",
+    "name": "Chorkie",
+    "url": "https://dogtime.com/dog-breeds/chorkie",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/chorkie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chow-chow",
+    "name": "Chow Chow",
+    "url": "https://dogtime.com/dog-breeds/chow-chow",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23144_chow-chow-300x189.jpg"
+  },
+  {
+    "id": "chow-shepherd",
+    "name": "Chow Shepherd",
+    "url": "https://dogtime.com/dog-breeds/chow-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/chow-shepherd-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chug",
+    "name": "Chug",
+    "url": "https://dogtime.com/dog-breeds/chug",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/chug-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "chusky",
+    "name": "Chusky",
+    "url": "https://dogtime.com/dog-breeds/chusky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/chusky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "cirneco-delletna",
+    "name": "Cirneco dell\u2019Etna",
+    "url": "https://dogtime.com/dog-breeds/cirneco-delletna",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/Cirneco-dellEtna-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "clumber-spaniel",
+    "name": "Clumber Spaniel",
+    "url": "https://dogtime.com/dog-breeds/clumber-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22960_clumber-spaniel-300x189.jpg"
+  },
+  {
+    "id": "cockalier",
+    "name": "Cockalier",
+    "url": "https://dogtime.com/dog-breeds/cockalier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/cockalier-mixed-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "cockapoo",
+    "name": "Cockapoo",
+    "url": "https://dogtime.com/dog-breeds/cockapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23218_cockapoo-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "cocker-spaniel",
+    "name": "Cocker Spaniel",
+    "url": "https://dogtime.com/dog-breeds/cocker-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22962_cocker-spaniel-300x189.jpg"
+  },
+  {
+    "id": "collie",
+    "name": "Collie",
+    "url": "https://dogtime.com/dog-breeds/collie",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23186_collie-300x189.jpg"
+  },
+  {
+    "id": "corgi-inu",
+    "name": "Corgi Inu",
+    "url": "https://dogtime.com/dog-breeds/corgi-inu",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/corgi-inu-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "corgidor",
+    "name": "Corgidor",
+    "url": "https://dogtime.com/dog-breeds/corgidor",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/corgidor-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "corman-shepherd",
+    "name": "Corman Shepherd",
+    "url": "https://dogtime.com/dog-breeds/corman-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/corman-shepherd-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "coton-de-tulear",
+    "name": "Coton de Tulear",
+    "url": "https://dogtime.com/dog-breeds/coton-de-tulear",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23230_coton-de-tulear-300x189.jpg"
+  },
+  {
+    "id": "croatian-sheepdog",
+    "name": "Croatian Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/croatian-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/croatian-sheepdog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "curly-coated-retriever",
+    "name": "Curly-Coated Retriever",
+    "url": "https://dogtime.com/dog-breeds/curly-coated-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22964_curly-coated-retriever-300x189.jpg"
+  },
+  {
+    "id": "dachsador",
+    "name": "Dachsador",
+    "url": "https://dogtime.com/dog-breeds/dachsador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/dachsador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "dachshund",
+    "name": "Dachshund",
+    "url": "https://dogtime.com/dog-breeds/dachshund",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23020_dachshund-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "dalmatian",
+    "name": "Dalmatian",
+    "url": "https://dogtime.com/dog-breeds/dalmatian",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23146_dalmatian-300x189.jpg"
+  },
+  {
+    "id": "dandie-dinmont-terrier",
+    "name": "Dandie Dinmont Terrier",
+    "url": "https://dogtime.com/dog-breeds/dandie-dinmont-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23064_dandie-dinmont-terrier-300x189.jpg"
+  },
+  {
+    "id": "daniff",
+    "name": "Daniff",
+    "url": "https://dogtime.com/dog-breeds/daniff",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/daniff-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "danish-swedish-farmdog",
+    "name": "Danish-Swedish Farmdog",
+    "url": "https://dogtime.com/dog-breeds/danish-swedish-farmdog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/08/danish-swedish-farmdog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "deutscher-wachtelhund",
+    "name": "Deutscher Wachtelhund",
+    "url": "https://dogtime.com/dog-breeds/deutscher-wachtelhund",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/Deutscher-Wachtelhund-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "doberdor",
+    "name": "Doberdor",
+    "url": "https://dogtime.com/dog-breeds/doberdor",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/doberdor-mixed-breed-dog-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "doberman-pinscher",
+    "name": "Doberman Pinscher",
+    "url": "https://dogtime.com/dog-breeds/doberman-pinscher",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22920_doberman-pinscher-300x189.jpg"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "url": "https://dogtime.com/dog-breeds/docker",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/docker-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "dogo-argentino",
+    "name": "Dogo Argentino",
+    "url": "https://dogtime.com/dog-breeds/dogo-argentino",
+    "image": "https://www.dogtime.com/assets/uploads/2017/12/dogo-argentino-breed-pictures-7-650x368.jpg"
+  },
+  {
+    "id": "dogue-de-bordeaux",
+    "name": "Dogue de Bordeaux",
+    "url": "https://dogtime.com/dog-breeds/dogue-de-bordeaux",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23252_dogue-de-bordeaux-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "dorgi",
+    "name": "Dorgi",
+    "url": "https://dogtime.com/dog-breeds/dorgi",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/dorgi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "dorkie",
+    "name": "Dorkie",
+    "url": "https://dogtime.com/dog-breeds/dorkie",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/dorkie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "doxiepoo",
+    "name": "Doxiepoo",
+    "url": "https://dogtime.com/dog-breeds/doxiepoo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/doxiepoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "doxle",
+    "name": "Doxle",
+    "url": "https://dogtime.com/dog-breeds/doxle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/doxle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "drentsche-patrijshond",
+    "name": "Drentsche Patrijshond",
+    "url": "https://dogtime.com/dog-breeds/drentsche-patrijshond",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/Drentsche-Patrijshond-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "drever",
+    "name": "Drever",
+    "url": "https://dogtime.com/dog-breeds/drever",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/drever-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "dutch-shepherd",
+    "name": "Dutch Shepherd",
+    "url": "https://dogtime.com/dog-breeds/dutch-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2018/01/dutch-shepherd-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "english-cocker-spaniel",
+    "name": "English Cocker Spaniel",
+    "url": "https://dogtime.com/dog-breeds/english-cocker-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22966_english-cocker-spaniel-300x189.jpg"
+  },
+  {
+    "id": "english-foxhound",
+    "name": "English Foxhound",
+    "url": "https://dogtime.com/dog-breeds/english-foxhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23022_english-foxhound-300x189.jpg"
+  },
+  {
+    "id": "english-setter",
+    "name": "English Setter",
+    "url": "https://dogtime.com/dog-breeds/english-setter",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22968_english-setter-300x189.jpg"
+  },
+  {
+    "id": "english-springer-spaniel",
+    "name": "English Springer Spaniel",
+    "url": "https://dogtime.com/dog-breeds/english-springer-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22970_english-springer-spaniel-300x189.jpg"
+  },
+  {
+    "id": "english-toy-spaniel",
+    "name": "English Toy Spaniel",
+    "url": "https://dogtime.com/dog-breeds/english-toy-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23106_english-toy-spaniel-300x189.jpg"
+  },
+  {
+    "id": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "url": "https://dogtime.com/dog-breeds/entlebucher-mountain-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23262_entlebucher-mountain-dog-300x189.jpg"
+  },
+  {
+    "id": "estrela-mountain-dog",
+    "name": "Estrela Mountain Dog",
+    "url": "https://dogtime.com/dog-breeds/estrela-mountain-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/estrela-mountain-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "eurasier",
+    "name": "Eurasier",
+    "url": "https://dogtime.com/dog-breeds/eurasier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/eurasier-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "field-spaniel",
+    "name": "Field Spaniel",
+    "url": "https://dogtime.com/dog-breeds/field-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22972_field-spaniel-300x189.jpg"
+  },
+  {
+    "id": "fila-brasileiro",
+    "name": "Fila Brasileiro",
+    "url": "https://dogtime.com/dog-breeds/fila-brasileiro",
+    "image": "https://www.dogtime.com/assets/uploads/2020/06/Fila-Brasileiro-dog-breed-pictures-1-650x433.jpg"
+  },
+  {
+    "id": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "url": "https://dogtime.com/dog-breeds/finnish-lapphund",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23258_finnish-lapphund-300x189.jpg"
+  },
+  {
+    "id": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "url": "https://dogtime.com/dog-breeds/finnish-spitz",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23148_finnish-spitz-300x189.jpg"
+  },
+  {
+    "id": "flat-coated-retriever",
+    "name": "Flat-Coated Retriever",
+    "url": "https://dogtime.com/dog-breeds/flat-coated-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22974_flat-coated-retriever-300x189.jpg"
+  },
+  {
+    "id": "fox-terrier",
+    "name": "Fox Terrier",
+    "url": "https://dogtime.com/dog-breeds/fox-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23094_fox-terrier-300x189.jpg"
+  },
+  {
+    "id": "french-bulldog",
+    "name": "French Bulldog",
+    "url": "https://dogtime.com/dog-breeds/french-bulldog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23150_french-bulldog-300x189.jpg"
+  },
+  {
+    "id": "french-bullhuahua",
+    "name": "French Bullhuahua",
+    "url": "https://dogtime.com/dog-breeds/french-bullhuahua",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/french-bullhuahua-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "french-spaniel",
+    "name": "French Spaniel",
+    "url": "https://dogtime.com/dog-breeds/french-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/french-spaniel-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "frenchton",
+    "name": "Frenchton",
+    "url": "https://dogtime.com/dog-breeds/frenchton",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/frenchton-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "frengle",
+    "name": "Frengle",
+    "url": "https://dogtime.com/dog-breeds/frengle",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/frengle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "german-longhaired-pointer",
+    "name": "German Longhaired Pointer",
+    "url": "https://dogtime.com/dog-breeds/german-longhaired-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/german-longhaired-pointer-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "german-pinscher",
+    "name": "German Pinscher",
+    "url": "https://dogtime.com/dog-breeds/german-pinscher",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22922_german-pinscher-300x189.jpg"
+  },
+  {
+    "id": "german-shepherd-dog",
+    "name": "German Shepherd Dog",
+    "url": "https://dogtime.com/dog-breeds/german-shepherd-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23188_german-shepherd-dog-300x189.jpg"
+  },
+  {
+    "id": "german-shepherd-pit-bull",
+    "name": "German Shepherd Pit Bull",
+    "url": "https://dogtime.com/dog-breeds/german-shepherd-pit-bull",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/german-shepherd-pit-bull-mixed-dog-breed-pictures-COVER-650x368.jpg"
+  },
+  {
+    "id": "german-shepherd-rottweiler-mix",
+    "name": "German Shepherd Rottweiler Mix",
+    "url": "https://dogtime.com/dog-breeds/german-shepherd-rottweiler-mix",
+    "image": "https://www.dogtime.com/assets/uploads/2020/04/german-shepherd-rottweiler-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "german-sheprador",
+    "name": "German Sheprador",
+    "url": "https://dogtime.com/dog-breeds/german-sheprador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/german-sheprador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "german-shorthaired-pointer",
+    "name": "German Shorthaired Pointer",
+    "url": "https://dogtime.com/dog-breeds/german-shorthaired-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22976_german-shorthaired-pointer-300x189.jpg"
+  },
+  {
+    "id": "german-spitz",
+    "name": "German Spitz",
+    "url": "https://dogtime.com/dog-breeds/german-spitz",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/german-spitz-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "german-wirehaired-pointer",
+    "name": "German Wirehaired Pointer",
+    "url": "https://dogtime.com/dog-breeds/german-wirehaired-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22978_german-wirehaired-pointer-300x189.jpg"
+  },
+  {
+    "id": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "url": "https://dogtime.com/dog-breeds/giant-schnauzer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22924_giant-schnauzer-300x189.jpg"
+  },
+  {
+    "id": "glen-of-imaal-terrier",
+    "name": "Glen of Imaal Terrier",
+    "url": "https://dogtime.com/dog-breeds/glen-of-imaal-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23066_glen-of-imaal-terrier-300x189.jpg"
+  },
+  {
+    "id": "goberian",
+    "name": "Goberian",
+    "url": "https://dogtime.com/dog-breeds/goberian",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/goberian-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "goldador",
+    "name": "Goldador",
+    "url": "https://dogtime.com/dog-breeds/goldador",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23214_goldador-300x189.jpg"
+  },
+  {
+    "id": "golden-cocker-retriever",
+    "name": "Golden Cocker Retriever",
+    "url": "https://dogtime.com/dog-breeds/golden-cocker-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/golden-cocker-retriever-mixed-dog-breed-pictures-cover-1-650x368.jpg"
+  },
+  {
+    "id": "golden-mountain-dog",
+    "name": "Golden Mountain Dog",
+    "url": "https://dogtime.com/dog-breeds/golden-mountain-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2019/10/golden-mountain-dog-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "golden-retriever",
+    "name": "Golden Retriever",
+    "url": "https://dogtime.com/dog-breeds/golden-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22980_golden-retriever-300x189.jpg"
+  },
+  {
+    "id": "golden-retriever-corgi",
+    "name": "Golden Retriever Corgi",
+    "url": "https://dogtime.com/dog-breeds/golden-retriever-corgi",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/golden-retriever-corgi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "golden-shepherd",
+    "name": "Golden Shepherd",
+    "url": "https://dogtime.com/dog-breeds/golden-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/German-Shepherd-Golden-Retriever-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "goldendoodle",
+    "name": "Goldendoodle",
+    "url": "https://dogtime.com/dog-breeds/goldendoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23204_goldendoodle-300x189.jpg"
+  },
+  {
+    "id": "gollie",
+    "name": "Gollie",
+    "url": "https://dogtime.com/dog-breeds/gollie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/gollie-mixed-dog-breed-pictures-1-1-650x368.jpg"
+  },
+  {
+    "id": "gordon-setter",
+    "name": "Gordon Setter",
+    "url": "https://dogtime.com/dog-breeds/gordon-setter",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22982_gordon-setter-300x189.jpg"
+  },
+  {
+    "id": "great-dane",
+    "name": "Great Dane",
+    "url": "https://dogtime.com/dog-breeds/great-dane",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22926_great-dane-300x189.jpg"
+  },
+  {
+    "id": "great-pyrenees",
+    "name": "Great Pyrenees",
+    "url": "https://dogtime.com/dog-breeds/great-pyrenees",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23202_great-pyrenees-300x189.jpg"
+  },
+  {
+    "id": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "url": "https://dogtime.com/dog-breeds/greater-swiss-mountain-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22928_greater-swiss-mountain-dog-300x189.jpg"
+  },
+  {
+    "id": "greyador",
+    "name": "Greyador",
+    "url": "https://dogtime.com/dog-breeds/greyador",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/greyador-mixed-dog-breed-pictures-COVER-650x368.jpg"
+  },
+  {
+    "id": "greyhound",
+    "name": "Greyhound",
+    "url": "https://dogtime.com/dog-breeds/greyhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23024_greyhound-300x189.jpg"
+  },
+  {
+    "id": "hamiltonstovare",
+    "name": "Hamiltonstovare",
+    "url": "https://dogtime.com/dog-breeds/hamiltonstovare",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/Hamiltonstovare-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "hanoverian-scenthound",
+    "name": "Hanoverian Scenthound",
+    "url": "https://dogtime.com/dog-breeds/hanoverian-scenthound",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/Hanoverian-Scenthound-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "harrier",
+    "name": "Harrier",
+    "url": "https://dogtime.com/dog-breeds/harrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23026_harrier-300x189.jpg"
+  },
+  {
+    "id": "havanese",
+    "name": "Havanese",
+    "url": "https://dogtime.com/dog-breeds/havanese",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23108_havanese-300x189.jpg"
+  },
+  {
+    "id": "hokkaido",
+    "name": "Hokkaido",
+    "url": "https://dogtime.com/dog-breeds/hokkaido",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/hokkaido-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "horgi",
+    "name": "Horgi",
+    "url": "https://dogtime.com/dog-breeds/horgi",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/horgi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "hovawart",
+    "name": "Hovawart",
+    "url": "https://dogtime.com/dog-breeds/hovawart",
+    "image": "https://www.dogtime.com/assets/uploads/2020/09/hovawart-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "huskita",
+    "name": "Huskita",
+    "url": "https://dogtime.com/dog-breeds/huskita",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/huskita-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "huskydoodle",
+    "name": "Huskydoodle",
+    "url": "https://dogtime.com/dog-breeds/huskydoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/huskydoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "ibizan-hound",
+    "name": "Ibizan Hound",
+    "url": "https://dogtime.com/dog-breeds/ibizan-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23028_ibizan-hound-300x189.jpg"
+  },
+  {
+    "id": "icelandic-sheepdog",
+    "name": "Icelandic Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/icelandic-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23274_icelandic-sheepdog-300x189.jpg"
+  },
+  {
+    "id": "irish-red-and-white-setter",
+    "name": "Irish Red And White Setter",
+    "url": "https://dogtime.com/dog-breeds/irish-red-and-white-setter",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23254_irish-red-and-white-setter-300x189.jpg"
+  },
+  {
+    "id": "irish-setter",
+    "name": "Irish Setter",
+    "url": "https://dogtime.com/dog-breeds/irish-setter",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22984_irish-setter-300x189.jpg"
+  },
+  {
+    "id": "irish-terrier",
+    "name": "Irish Terrier",
+    "url": "https://dogtime.com/dog-breeds/irish-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23068_irish-terrier-300x189.jpg"
+  },
+  {
+    "id": "irish-water-spaniel",
+    "name": "Irish Water Spaniel",
+    "url": "https://dogtime.com/dog-breeds/irish-water-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22986_irish-water-spaniel-300x189.jpg"
+  },
+  {
+    "id": "irish-wolfhound",
+    "name": "Irish Wolfhound",
+    "url": "https://dogtime.com/dog-breeds/irish-wolfhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23030_irish-wolfhound-300x189.jpg"
+  },
+  {
+    "id": "italian-greyhound",
+    "name": "Italian Greyhound",
+    "url": "https://dogtime.com/dog-breeds/italian-greyhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23110_italian-greyhound-300x189.jpg"
+  },
+  {
+    "id": "jack-a-poo",
+    "name": "Jack-A-Poo",
+    "url": "https://dogtime.com/dog-breeds/jack-a-poo",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/jack-a-poo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "jack-chi",
+    "name": "Jack Chi",
+    "url": "https://dogtime.com/dog-breeds/jack-chi",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/jack-chi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "jack-russell-terrier",
+    "name": "Jack Russell Terrier",
+    "url": "https://dogtime.com/dog-breeds/jack-russell-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23080_jack-russell-terrier-300x189.jpg"
+  },
+  {
+    "id": "jackshund",
+    "name": "Jackshund",
+    "url": "https://dogtime.com/dog-breeds/jackshund",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/jackshund-mixed-dog-breed-pictures-COVER-650x368.jpg"
+  },
+  {
+    "id": "japanese-chin",
+    "name": "Japanese Chin",
+    "url": "https://dogtime.com/dog-breeds/japanese-chin",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23112_japanese-chin-300x189.jpg"
+  },
+  {
+    "id": "japanese-spitz",
+    "name": "Japanese Spitz",
+    "url": "https://dogtime.com/dog-breeds/japanese-spitz",
+    "image": "https://www.dogtime.com/assets/uploads/2018/06/japanese-spitz-dog-breed-pictures-header-650x368.jpg"
+  },
+  {
+    "id": "jindo",
+    "name": "Korean Jindo Dog",
+    "url": "https://dogtime.com/dog-breeds/jindo",
+    "image": "https://www.dogtime.com/assets/uploads/2015/08/jindo-650x382.png"
+  },
+  {
+    "id": "kai-ken",
+    "name": "Kai Ken",
+    "url": "https://dogtime.com/dog-breeds/kai-ken",
+    "image": "https://www.dogtime.com/assets/uploads/2020/05/kai-ken-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "karelian-bear-dog",
+    "name": "Karelian Bear Dog",
+    "url": "https://dogtime.com/dog-breeds/karelian-bear-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2018/04/karelian-bear-dog-header-650x368.jpg"
+  },
+  {
+    "id": "keeshond",
+    "name": "Keeshond",
+    "url": "https://dogtime.com/dog-breeds/keeshond",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23152_keeshond-300x189.jpg"
+  },
+  {
+    "id": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "url": "https://dogtime.com/dog-breeds/kerry-blue-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23070_kerry-blue-terrier-300x189.jpg"
+  },
+  {
+    "id": "king-shepherd",
+    "name": "King Shepherd",
+    "url": "https://dogtime.com/dog-breeds/king-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/king-shepherd-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "kishu-ken",
+    "name": "Kishu Ken",
+    "url": "https://dogtime.com/dog-breeds/kishu-ken",
+    "image": "https://www.dogtime.com/assets/uploads/2020/06/kishu-ken-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "komondor",
+    "name": "Komondor",
+    "url": "https://dogtime.com/dog-breeds/komondor",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22930_komondor-300x189.jpg"
+  },
+  {
+    "id": "kooikerhondje",
+    "name": "Kooikerhondje",
+    "url": "https://dogtime.com/dog-breeds/kooikerhondje",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23266_kooikerhondje-300x189.jpg"
+  },
+  {
+    "id": "kuvasz",
+    "name": "Kuvasz",
+    "url": "https://dogtime.com/dog-breeds/kuvasz",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22932_kuvasz-300x189.jpg"
+  },
+  {
+    "id": "kyi-leo",
+    "name": "Kyi-Leo",
+    "url": "https://dogtime.com/dog-breeds/kyi-leo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/kyi-leo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "lab-pointer",
+    "name": "Lab Pointer",
+    "url": "https://dogtime.com/dog-breeds/lab-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/lab-pointer-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "labernese",
+    "name": "Labernese",
+    "url": "https://dogtime.com/dog-breeds/labernese",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/labernese-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "labmaraner",
+    "name": "Labmaraner",
+    "url": "https://dogtime.com/dog-breeds/labmaraner",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/labmaraner-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "labrabull",
+    "name": "Labrabull",
+    "url": "https://dogtime.com/dog-breeds/labrabull",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/Labrabull-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "labradane",
+    "name": "Labradane",
+    "url": "https://dogtime.com/dog-breeds/labradane",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/labradane-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "labradoodle",
+    "name": "Labradoodle",
+    "url": "https://dogtime.com/dog-breeds/labradoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23220_what-is-a-labradoodle-300x189.jpg"
+  },
+  {
+    "id": "labrador-retriever",
+    "name": "Labrador Retriever",
+    "url": "https://dogtime.com/dog-breeds/labrador-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22988_labrador-retriever-300x189.jpg"
+  },
+  {
+    "id": "labrastaff",
+    "name": "Labrastaff",
+    "url": "https://dogtime.com/dog-breeds/labrastaff",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/labrastaff-mixed-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "labsky",
+    "name": "Labsky",
+    "url": "https://dogtime.com/dog-breeds/labsky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/labsky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "lagotto-romagnolo",
+    "name": "Lagotto Romagnolo",
+    "url": "https://dogtime.com/dog-breeds/lagotto-romagnolo",
+    "image": "https://www.dogtime.com/assets/uploads/2018/07/lagotto-romagnolo-dog-breed-pictures-header-650x368.jpg"
+  },
+  {
+    "id": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "url": "https://dogtime.com/dog-breeds/lakeland-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23072_lakeland-terrier-300x189.jpg"
+  },
+  {
+    "id": "lancashire-heeler",
+    "name": "Lancashire Heeler",
+    "url": "https://dogtime.com/dog-breeds/lancashire-heeler",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23282_lancashire-heeler-300x189.jpg"
+  },
+  {
+    "id": "leonberger",
+    "name": "Leonberger",
+    "url": "https://dogtime.com/dog-breeds/leonberger",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23272_leonberger-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "lhasa-apso",
+    "name": "Lhasa Apso",
+    "url": "https://dogtime.com/dog-breeds/lhasa-apso",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23154_lhasa-apso-300x189.jpg"
+  },
+  {
+    "id": "lhasapoo",
+    "name": "Lhasapoo",
+    "url": "https://dogtime.com/dog-breeds/lhasapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/lhasapoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "lowchen",
+    "name": "Lowchen",
+    "url": "https://dogtime.com/dog-breeds/lowchen",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23156_lowchen-300x189.jpg"
+  },
+  {
+    "id": "maltese",
+    "name": "Maltese",
+    "url": "https://dogtime.com/dog-breeds/maltese",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23114_maltese-300x189.jpg"
+  },
+  {
+    "id": "maltese-shih-tzu",
+    "name": "Maltese Shih Tzu",
+    "url": "https://dogtime.com/dog-breeds/maltese-shih-tzu",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23216_maltese-shih-tzu-300x189.jpg"
+  },
+  {
+    "id": "maltipoo",
+    "name": "Maltipoo",
+    "url": "https://dogtime.com/dog-breeds/maltipoo",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23210_maltipoo-300x189.jpg"
+  },
+  {
+    "id": "manchester-terrier",
+    "name": "Manchester Terrier",
+    "url": "https://dogtime.com/dog-breeds/manchester-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23224_manchester-terrier-300x189.jpg"
+  },
+  {
+    "id": "maremma-sheepdog",
+    "name": "Maremma Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/maremma-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/Maremma-Sheepdog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "mastador",
+    "name": "Mastador",
+    "url": "https://dogtime.com/dog-breeds/mastador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/mastador-mixed-dog-breed-picture-cover-650x368.jpg"
+  },
+  {
+    "id": "mastiff",
+    "name": "Mastiff",
+    "url": "https://dogtime.com/dog-breeds/mastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22934_mastiff-300x189.jpg"
+  },
+  {
+    "id": "miniature-pinscher",
+    "name": "Miniature Pinscher",
+    "url": "https://dogtime.com/dog-breeds/miniature-pinscher",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23116_miniature-pinscher-300x189.jpg"
+  },
+  {
+    "id": "miniature-schnauzer",
+    "name": "Miniature Schnauzer",
+    "url": "https://dogtime.com/dog-breeds/miniature-schnauzer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23074_miniature-schnauzer-300x189.jpg"
+  },
+  {
+    "id": "morkie",
+    "name": "Morkie",
+    "url": "https://dogtime.com/dog-breeds/morkie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/morkie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "mountain-cur",
+    "name": "Mountain Cur",
+    "url": "https://dogtime.com/dog-breeds/mountain-cur",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/mountain-cur-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "mudi",
+    "name": "Mudi",
+    "url": "https://dogtime.com/dog-breeds/mudi",
+    "image": "https://www.dogtime.com/assets/uploads/2018/04/mudi-dog-breed-pictures-header-650x368.jpg"
+  },
+  {
+    "id": "mutt",
+    "name": "Mutt (Mixed)",
+    "url": "https://dogtime.com/dog-breeds/mutt",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23228_mutt-300x189.jpg"
+  },
+  {
+    "id": "neapolitan-mastiff",
+    "name": "Neapolitan Mastiff",
+    "url": "https://dogtime.com/dog-breeds/neapolitan-mastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22936_neapolitan-mastiff-300x189.jpg"
+  },
+  {
+    "id": "newfoundland",
+    "name": "Newfoundland",
+    "url": "https://dogtime.com/dog-breeds/newfoundland",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22938_newfoundland-300x189.jpg"
+  },
+  {
+    "id": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "url": "https://dogtime.com/dog-breeds/norfolk-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23076_norfolk-terrier-300x189.jpg"
+  },
+  {
+    "id": "northern-inuit-dog",
+    "name": "Northern Inuit Dog",
+    "url": "https://dogtime.com/dog-breeds/northern-inuit-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/northern-inuit-dog-hybrid-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "norwegian-buhund",
+    "name": "Norwegian Buhund",
+    "url": "https://dogtime.com/dog-breeds/norwegian-buhund",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23284_norwegian-buhund-300x189.jpg"
+  },
+  {
+    "id": "norwegian-elkhound",
+    "name": "Norwegian Elkhound",
+    "url": "https://dogtime.com/dog-breeds/norwegian-elkhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23032_norwegian-elkhound-300x189.jpg"
+  },
+  {
+    "id": "norwegian-lundehund",
+    "name": "Norwegian Lundehund",
+    "url": "https://dogtime.com/dog-breeds/norwegian-lundehund",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23276_norwegian-lundehund-300x189.jpg"
+  },
+  {
+    "id": "norwich-terrier",
+    "name": "Norwich Terrier",
+    "url": "https://dogtime.com/dog-breeds/norwich-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23078_norwich-terrier-300x189.jpg"
+  },
+  {
+    "id": "nova-scotia-duck-tolling-retriever",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "url": "https://dogtime.com/dog-breeds/nova-scotia-duck-tolling-retriever",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22990_nova-scotia-duck-tolling-retriever-300x189.jpg"
+  },
+  {
+    "id": "old-english-sheepdog",
+    "name": "Old English Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/old-english-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23190_old-english-sheepdog-300x189.jpg"
+  },
+  {
+    "id": "otterhound",
+    "name": "Otterhound",
+    "url": "https://dogtime.com/dog-breeds/otterhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23034_otterhound-300x189.jpg"
+  },
+  {
+    "id": "papillon",
+    "name": "Papillon",
+    "url": "https://dogtime.com/dog-breeds/papillon",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23118_papillon-300x189.jpg"
+  },
+  {
+    "id": "papipoo",
+    "name": "Papipoo",
+    "url": "https://dogtime.com/dog-breeds/papipoo",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/papipoo-mixed-dog-breed-pictures-cover-1-650x368.jpg"
+  },
+  {
+    "id": "patterdale-terrier",
+    "name": "Patterdale Terrier",
+    "url": "https://dogtime.com/dog-breeds/patterdale-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/patterdale-terrier-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "peekapoo",
+    "name": "Peekapoo",
+    "url": "https://dogtime.com/dog-breeds/peekapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23222_peekapoo-300x189.jpg"
+  },
+  {
+    "id": "pekingese",
+    "name": "Pekingese",
+    "url": "https://dogtime.com/dog-breeds/pekingese",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23120_pekingese-300x189.jpg"
+  },
+  {
+    "id": "pembroke-welsh-corgi",
+    "name": "Pembroke Welsh Corgi",
+    "url": "https://dogtime.com/dog-breeds/pembroke-welsh-corgi",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23192_pembroke-welsh-corgi-300x189.jpg"
+  },
+  {
+    "id": "petit-basset-griffon-vendeen",
+    "name": "Petit Basset Griffon Vend\u00e9en",
+    "url": "https://dogtime.com/dog-breeds/petit-basset-griffon-vendeen",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23036_petit-basset-griffon-vendeen-300x189.jpg"
+  },
+  {
+    "id": "pharaoh-hound",
+    "name": "Pharaoh Hound",
+    "url": "https://dogtime.com/dog-breeds/pharaoh-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23038_pharaoh-hound-300x189.jpg"
+  },
+  {
+    "id": "pitsky",
+    "name": "Pitsky",
+    "url": "https://dogtime.com/dog-breeds/pitsky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/pitsky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "plott",
+    "name": "Plott",
+    "url": "https://dogtime.com/dog-breeds/plott",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23040_plott-300x189.jpg"
+  },
+  {
+    "id": "pocket-beagle",
+    "name": "Pocket Beagle",
+    "url": "https://dogtime.com/dog-breeds/pocket-beagle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23234_pocket-beagle-300x189.jpg"
+  },
+  {
+    "id": "pointer",
+    "name": "Pointer",
+    "url": "https://dogtime.com/dog-breeds/pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22992_pointer-300x189.jpg"
+  },
+  {
+    "id": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/polish-lowland-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23194_polish-lowland-sheepdog-300x189.jpg"
+  },
+  {
+    "id": "pomapoo",
+    "name": "Pomapoo",
+    "url": "https://dogtime.com/dog-breeds/pomapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/pomapoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pomchi",
+    "name": "Pomchi",
+    "url": "https://dogtime.com/dog-breeds/pomchi",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/pomchi-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pomeagle",
+    "name": "Pomeagle",
+    "url": "https://dogtime.com/dog-breeds/pomeagle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/pomeagle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pomeranian",
+    "name": "Pomeranian",
+    "url": "https://dogtime.com/dog-breeds/pomeranian",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23122_pomeranian-300x189.jpg"
+  },
+  {
+    "id": "pomsky",
+    "name": "Pomsky",
+    "url": "https://dogtime.com/dog-breeds/pomsky",
+    "image": "https://www.dogtime.com/assets/uploads/2017/10/pomsky-dog-breed-pictures-header-300x170.jpg"
+  },
+  {
+    "id": "poochon",
+    "name": "Poochon",
+    "url": "https://dogtime.com/dog-breeds/poochon",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/poochon-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "poodle",
+    "name": "Poodle",
+    "url": "https://dogtime.com/dog-breeds/poodle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23200_poodle-300x189.jpg"
+  },
+  {
+    "id": "portuguese-podengo-pequeno",
+    "name": "Portuguese Podengo Pequeno",
+    "url": "https://dogtime.com/dog-breeds/portuguese-podengo-pequeno",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/Portuguese-Podengo-Pequeno-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "portuguese-pointer",
+    "name": "Portuguese Pointer",
+    "url": "https://dogtime.com/dog-breeds/portuguese-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/portuguese-pointer-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "portuguese-sheepdog",
+    "name": "Portuguese Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/portuguese-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/portuguese-sheepdog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "portuguese-water-dog",
+    "name": "Portuguese Water Dog",
+    "url": "https://dogtime.com/dog-breeds/portuguese-water-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22940_portuguese-water-dog-300x189.jpg"
+  },
+  {
+    "id": "pudelpointer",
+    "name": "Pudelpointer",
+    "url": "https://dogtime.com/dog-breeds/pudelpointer",
+    "image": "https://www.dogtime.com/assets/uploads/2020/09/pudelpointer-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pug",
+    "name": "Pug",
+    "url": "https://dogtime.com/dog-breeds/pug",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23124_pug-300x189.jpg"
+  },
+  {
+    "id": "pugalier",
+    "name": "Pugalier",
+    "url": "https://dogtime.com/dog-breeds/pugalier",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/pugalier-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "puggle",
+    "name": "Puggle",
+    "url": "https://dogtime.com/dog-breeds/puggle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23212_puggle-300x189.jpg"
+  },
+  {
+    "id": "puginese",
+    "name": "Puginese",
+    "url": "https://dogtime.com/dog-breeds/puginese",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/puginese-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "puli",
+    "name": "Puli",
+    "url": "https://dogtime.com/dog-breeds/puli",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23196_puli-300x189.jpg"
+  },
+  {
+    "id": "pyredoodle",
+    "name": "Pyredoodle",
+    "url": "https://dogtime.com/dog-breeds/pyredoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/pyredoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pyrenean-mastiff",
+    "name": "Pyrenean Mastiff",
+    "url": "https://dogtime.com/dog-breeds/pyrenean-mastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2020/08/Pyrenean-Mastiff-Dog-Breed-Pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "pyrenean-shepherd",
+    "name": "Pyrenean Shepherd",
+    "url": "https://dogtime.com/dog-breeds/pyrenean-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23246_pyrenean-shepherd-300x189.jpg"
+  },
+  {
+    "id": "rat-terrier",
+    "name": "Rat Terrier",
+    "url": "https://dogtime.com/dog-breeds/rat-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23226_rat-terrier-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "url": "https://dogtime.com/dog-breeds/redbone-coonhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23248_redbone-coonhound-300x189.jpg"
+  },
+  {
+    "id": "rhodesian-ridgeback",
+    "name": "Rhodesian Ridgeback",
+    "url": "https://dogtime.com/dog-breeds/rhodesian-ridgeback",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23042_rhodesian-ridgeback-300x189.jpg"
+  },
+  {
+    "id": "rottador",
+    "name": "Rottador",
+    "url": "https://dogtime.com/dog-breeds/rottador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/rottador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "rottle",
+    "name": "Rottle",
+    "url": "https://dogtime.com/dog-breeds/rottle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/rottle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "rottweiler",
+    "name": "Rottweiler",
+    "url": "https://dogtime.com/dog-breeds/rottweiler",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22942_rottweiler-300x189.jpg"
+  },
+  {
+    "id": "saint-berdoodle",
+    "name": "Saint Berdoodle",
+    "url": "https://dogtime.com/dog-breeds/saint-berdoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/saint-berdoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "saint-bernard",
+    "name": "Saint Bernard",
+    "url": "https://dogtime.com/dog-breeds/saint-bernard",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22944_saint-bernard-300x189.jpg"
+  },
+  {
+    "id": "saluki",
+    "name": "Saluki",
+    "url": "https://dogtime.com/dog-breeds/saluki",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23044_saluki-300x189.jpg"
+  },
+  {
+    "id": "samoyed",
+    "name": "Samoyed",
+    "url": "https://dogtime.com/dog-breeds/samoyed",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22946_Samoyed-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "samusky",
+    "name": "Samusky",
+    "url": "https://dogtime.com/dog-breeds/samusky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/12/samusky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "schipperke",
+    "name": "Schipperke",
+    "url": "https://dogtime.com/dog-breeds/schipperke",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23158_schipperke-300x189.jpg"
+  },
+  {
+    "id": "schnoodle",
+    "name": "Schnoodle",
+    "url": "https://dogtime.com/dog-breeds/schnoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23206_schnoodle-300x189.jpg"
+  },
+  {
+    "id": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "url": "https://dogtime.com/dog-breeds/scottish-deerhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23046_scottish-deerhound-300x189.jpg"
+  },
+  {
+    "id": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "url": "https://dogtime.com/dog-breeds/scottish-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23082_scottish-terrier-300x189.jpg"
+  },
+  {
+    "id": "sealyham-terrier",
+    "name": "Sealyham Terrier",
+    "url": "https://dogtime.com/dog-breeds/sealyham-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23084_sealyham-terrier-300x189.jpg"
+  },
+  {
+    "id": "sheepadoodle",
+    "name": "Sheepadoodle",
+    "url": "https://dogtime.com/dog-breeds/sheepadoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/sheepadoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shepsky",
+    "name": "Shepsky",
+    "url": "https://dogtime.com/dog-breeds/shepsky",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/shepsky-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shetland-sheepdog",
+    "name": "Shetland Sheepdog",
+    "url": "https://dogtime.com/dog-breeds/shetland-sheepdog",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23198_shetland-sheepdog-300x189.jpg"
+  },
+  {
+    "id": "shiba-inu",
+    "name": "Shiba Inu",
+    "url": "https://dogtime.com/dog-breeds/shiba-inu",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23160_shiba-inu-300x189.jpg"
+  },
+  {
+    "id": "shichon",
+    "name": "Shichon",
+    "url": "https://dogtime.com/dog-breeds/shichon",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/shichon-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shih-poo",
+    "name": "Shih-Poo",
+    "url": "https://dogtime.com/dog-breeds/shih-poo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/shih-poo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shih-tzu",
+    "name": "Shih Tzu",
+    "url": "https://dogtime.com/dog-breeds/shih-tzu",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23126_shih-tzu-300x189.jpg"
+  },
+  {
+    "id": "shikoku",
+    "name": "Shikoku",
+    "url": "https://dogtime.com/dog-breeds/shikoku",
+    "image": "https://www.dogtime.com/assets/uploads/2020/06/shikoku-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shiloh-shepherd",
+    "name": "Shiloh Shepherd",
+    "url": "https://dogtime.com/dog-breeds/shiloh-shepherd",
+    "image": "https://www.dogtime.com/assets/uploads/2020/03/shiloh-shepherd-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shiranian",
+    "name": "Shiranian",
+    "url": "https://dogtime.com/dog-breeds/shiranian",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/shiranian-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shollie",
+    "name": "Shollie",
+    "url": "https://dogtime.com/dog-breeds/shollie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/shollie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "shorkie",
+    "name": "Shorkie",
+    "url": "https://dogtime.com/dog-breeds/shorkie",
+    "image": "https://www.dogtime.com/assets/uploads/2019/08/shorkie-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "siberian-husky",
+    "name": "Siberian Husky",
+    "url": "https://dogtime.com/dog-breeds/siberian-husky",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22948_siberian-husky-300x189.jpg"
+  },
+  {
+    "id": "silken-windhound",
+    "name": "Silken Windhound",
+    "url": "https://dogtime.com/dog-breeds/silken-windhound",
+    "image": "https://www.dogtime.com/assets/uploads/2018/07/silken-windhound-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "silky-terrier",
+    "name": "Silky Terrier",
+    "url": "https://dogtime.com/dog-breeds/silky-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23128_silky-terrier-300x189.jpg"
+  },
+  {
+    "id": "skye-terrier",
+    "name": "Skye Terrier",
+    "url": "https://dogtime.com/dog-breeds/skye-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23086_skye-terrier-300x189.jpg"
+  },
+  {
+    "id": "sloughi",
+    "name": "Sloughi",
+    "url": "https://dogtime.com/dog-breeds/sloughi",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23260_sloughi-dog-breed-picture-300x189.jpg"
+  },
+  {
+    "id": "small-munsterlander-pointer",
+    "name": "Small Munsterlander Pointer",
+    "url": "https://dogtime.com/dog-breeds/small-munsterlander-pointer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23256_small-munsterlander-pointer-300x189.jpg"
+  },
+  {
+    "id": "soft-coated-wheaten-terrier",
+    "name": "Soft Coated Wheaten Terrier",
+    "url": "https://dogtime.com/dog-breeds/soft-coated-wheaten-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23088_soft-coated-wheaten-terrier-300x189.jpg"
+  },
+  {
+    "id": "spanish-mastiff",
+    "name": "Spanish Mastiff",
+    "url": "https://dogtime.com/dog-breeds/spanish-mastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/spanish-mastiff-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "spinone-italiano",
+    "name": "Spinone Italiano",
+    "url": "https://dogtime.com/dog-breeds/spinone-italiano",
+    "image": "https://www.dogtime.com/assets/uploads/2018/08/spinone-italiano-dog-breed-pictures-header-300x170.jpg"
+  },
+  {
+    "id": "springador",
+    "name": "Springador",
+    "url": "https://dogtime.com/dog-breeds/springador",
+    "image": "https://www.dogtime.com/assets/uploads/2019/11/springador-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "stabyhoun",
+    "name": "Stabyhoun",
+    "url": "https://dogtime.com/dog-breeds/stabyhoun",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23264_Stabyhoun-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "staffordshire-bull-terrier",
+    "name": "Staffordshire Bull Terrier",
+    "url": "https://dogtime.com/dog-breeds/staffordshire-bull-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23292_staffordshire-bull-terrier-300x189.jpg"
+  },
+  {
+    "id": "staffy-bull-bullmastiff",
+    "name": "Staffy Bull Bullmastiff",
+    "url": "https://dogtime.com/dog-breeds/staffy-bull-bullmastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/staffy-bullmastiff-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "url": "https://dogtime.com/dog-breeds/standard-schnauzer",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22950_standard-schnauzer-300x189.jpg"
+  },
+  {
+    "id": "sussex-spaniel",
+    "name": "Sussex Spaniel",
+    "url": "https://dogtime.com/dog-breeds/sussex-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22994_sussex-spaniel-300x189.jpg"
+  },
+  {
+    "id": "swedish-lapphund",
+    "name": "Swedish Lapphund",
+    "url": "https://dogtime.com/dog-breeds/swedish-lapphund",
+    "image": "https://www.dogtime.com/assets/uploads/2020/08/swedish-lapphund-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "url": "https://dogtime.com/dog-breeds/swedish-vallhund",
+    "image": "https://www.dogtime.com/assets/uploads/2014/06/file_23298_Swedish-Vallhund-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "taiwan-dog",
+    "name": "Taiwan Dog",
+    "url": "https://dogtime.com/dog-breeds/taiwan-dog",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/taiwan-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "terripoo",
+    "name": "Terripoo",
+    "url": "https://dogtime.com/dog-breeds/terripoo",
+    "image": "https://www.dogtime.com/assets/uploads/2020/01/terripoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "texas-heeler",
+    "name": "Texas Heeler",
+    "url": "https://dogtime.com/dog-breeds/texas-heeler",
+    "image": "https://www.dogtime.com/assets/uploads/2020/02/texas-heeler-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "thai-ridgeback",
+    "name": "Thai Ridgeback",
+    "url": "https://dogtime.com/dog-breeds/thai-ridgeback",
+    "image": "https://www.dogtime.com/assets/uploads/2020/10/Thai-Ridgeback-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "tibetan-mastiff",
+    "name": "Tibetan Mastiff",
+    "url": "https://dogtime.com/dog-breeds/tibetan-mastiff",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22952_tibetan-mastiff-300x189.jpg"
+  },
+  {
+    "id": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "url": "https://dogtime.com/dog-breeds/tibetan-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23162_tibetan-spaniel-300x189.jpg"
+  },
+  {
+    "id": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "url": "https://dogtime.com/dog-breeds/tibetan-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23164_tibetan-terrier-300x189.jpg"
+  },
+  {
+    "id": "toy-fox-terrier",
+    "name": "Toy Fox Terrier",
+    "url": "https://dogtime.com/dog-breeds/toy-fox-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23130_toy-fox-terrier-300x189.jpg"
+  },
+  {
+    "id": "transylvanian-hound",
+    "name": "Transylvanian Hound",
+    "url": "https://dogtime.com/dog-breeds/transylvanian-hound",
+    "image": "https://www.dogtime.com/assets/uploads/2020/07/transylvanian-hound-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "treeing-tennessee-brindle",
+    "name": "Treeing Tennessee Brindle",
+    "url": "https://dogtime.com/dog-breeds/treeing-tennessee-brindle",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23280_what-is-a-treeing-tennessee-brindle-dog-300x189.jpg"
+  },
+  {
+    "id": "treeing-walker-coonhound",
+    "name": "Treeing Walker Coonhound",
+    "url": "https://dogtime.com/dog-breeds/treeing-walker-coonhound",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23250_treeing-walker-coonhound-300x189.jpg"
+  },
+  {
+    "id": "valley-bulldog",
+    "name": "Valley Bulldog",
+    "url": "https://dogtime.com/dog-breeds/valley-bulldog",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/valley-bulldog-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "vizsla",
+    "name": "Vizsla",
+    "url": "https://dogtime.com/dog-breeds/vizsla",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22996_vizsla-300x189.jpg"
+  },
+  {
+    "id": "weimaraner",
+    "name": "Weimaraner",
+    "url": "https://dogtime.com/dog-breeds/weimaraner",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_22998_weimaraner-300x189.jpg"
+  },
+  {
+    "id": "welsh-springer-spaniel",
+    "name": "Welsh Springer Spaniel",
+    "url": "https://dogtime.com/dog-breeds/welsh-springer-spaniel",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23000_welsh-springer-spaniel-300x189.jpg"
+  },
+  {
+    "id": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "url": "https://dogtime.com/dog-breeds/welsh-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23090_welsh-terrier-300x189.jpg"
+  },
+  {
+    "id": "west-highland-white-terrier",
+    "name": "West Highland White Terrier",
+    "url": "https://dogtime.com/dog-breeds/west-highland-white-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23092_west-highland-white-terrier-300x189.jpg"
+  },
+  {
+    "id": "westiepoo",
+    "name": "Westiepoo",
+    "url": "https://dogtime.com/dog-breeds/westiepoo",
+    "image": "https://www.dogtime.com/assets/uploads/2019/09/westiepoo-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "whippet",
+    "name": "Whippet",
+    "url": "https://dogtime.com/dog-breeds/whippet",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23048_whippet-300x189.jpg"
+  },
+  {
+    "id": "whoodle",
+    "name": "Whoodle",
+    "url": "https://dogtime.com/dog-breeds/whoodle",
+    "image": "https://www.dogtime.com/assets/uploads/2019/07/whoodle-mixed-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "wirehaired-pointing-griffon",
+    "name": "Wirehaired Pointing Griffon",
+    "url": "https://dogtime.com/dog-breeds/wirehaired-pointing-griffon",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23002_wirehaired-pointing-griffon-300x189.jpg"
+  },
+  {
+    "id": "xoloitzuintli",
+    "name": "Xoloitzcuintli",
+    "url": "https://dogtime.com/dog-breeds/xoloitzuintli",
+    "image": "https://www.dogtime.com/assets/uploads/2012/02/file_23296_Xoloitzcuintli-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "yorkipoo",
+    "name": "Yorkipoo",
+    "url": "https://dogtime.com/dog-breeds/yorkipoo",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23208_yorkipoo-300x189.jpg"
+  },
+  {
+    "id": "yorkshire-terrier",
+    "name": "Yorkshire Terrier",
+    "url": "https://dogtime.com/dog-breeds/yorkshire-terrier",
+    "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23132_yorkshire-terrier-300x189.jpg"
+  }
+]

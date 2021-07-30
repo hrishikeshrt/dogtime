@@ -1,0 +1,186 @@
+{
+  "id": "azawakh",
+  "url": "https://dogtime.com/dog-breeds/azawakh",
+  "name": "Azawakh",
+  "intro": "A dog breed named for the Azawakh Valley in the Sahara desert where they originated, this is a lean and swift hunter with a regal presence. They\u2019re proud but loyal and protective of their home and family.\nAlthough these are rare, purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home.\nAs you may guess from the appearance of the breed and their desert origins, these dogs do well in hot climates. While they love their human families, they can remain aloof around new people. As sighthounds, they\u2019ll also want to take off when they see something moving, which could include small animals or even running children. They need experienced pet parents who can keep them from bolting, stay firm with training, and socilaize them early.\nSee below for all dog breed traits and facts about Azawakhs!",
+  "description": {
+    "": "Hailing from the Sahel region of the Sahara Desert, the proud and elegant Azawakh has long been a guardian, hunter, and companion to tribes in that region. He's named for the Azawakh valley in the Sahara.Azawakhs are gentle and affectionate with their families, but they can be standoffish toward strangers and dislike being touched by people they don't know. They're also protective of their people and property. Fans describe them as a wonderful combination of loyal and independent.Because they're sighthounds, they're attracted by motion and are likely to chase animals, people on bicycles or skateboards, or even running children. On the other hand, these lean, muscular dogs make excellent companions for joggers and runners. Indoors, they're fairly inactive and are content to snooze on the couch.They're best suited to a home with a large fenced yard or a nearby fenced park where they can run flat out. They need at least a half hour a day of active exercise or play and, although it may seem like a slight to their dignity, you'll need to outfit your Azawakh in a sweater before heading out in cold weather. With their short hair and low body fat, they get chilled easily.",
+    "Size": "Males stand 25 to 29 inches at the shoulder and weigh 44 to 55 pounds; females are 23.5 to 27.5 inches tall and weigh 33 to 44 pounds.",
+    "Coat Color And Grooming": "The short, smooth Azawakh coat comes in a variety of colors, including clear sand to dark red, white, black, blue, gray, brindle, grizzle, parti-color and all shades of brown, including chocolate. The stomach may be hairless.A once-over with a hound glove should keep your Azawakh's coat looking good. Regular shampooing isn't necessary, but when you do give them a bath, use a mild, hypoallergenic shampoo as they tend to have sensitive skin."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "23 to 27 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "33 to 55 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 2
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 3
+    }
+  ]
+}

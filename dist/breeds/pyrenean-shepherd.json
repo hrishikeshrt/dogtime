@@ -1,0 +1,186 @@
+{
+  "id": "pyrenean-shepherd",
+  "url": "https://dogtime.com/dog-breeds/pyrenean-shepherd",
+  "name": "Pyrenean Shepherd",
+  "intro": "These lean but muscular dogs have breathtaking speed, grace, and intelligence. The Pyrenean Shepherd\u2019s passion for their family is matched only by their passion for work, and parents of this dog breed should be prepared to give their dogs a job to do, whether it\u2019s a competitive dog sport or a flock of sheep to boss around.\nEven though Pyr Sheps, as they\u2019re sometimes called for short, are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nThese dogs can make excellent, affectionate companions who will get along with all humans in the home, even kids! Just make sure to supervise playtime, as with all children and dogs. Pyr Sheps can even adapt to apartment living, but they have high energy and exercise needs, so make sure you can keep up with them on plenty of walks. Agility training will also keep them busy, and they excel at many dog sports when properly trained. If you want a dog who will keep you moving, this may be the breed for you!\nSee below for complete list of dog breed traits and facts about Pyrenean Shepherds!",
+  "description": {
+    "": "If you ever see a Pyr Shep run an agility course, you'll be astonished by the enthusiasm and speed of this lean but muscular little herding dog. His movement is said to \"shave the earth,\" and indeed, it almost looks as if he's flying.To live with a Pyrenean Shepherd is to take on a highly energetic, intelligent, mischievous companion whose passion for you will be matched only by his desire to work. Be prepared to stimulate his mind and fulfill his need for activity with a challenging dog sport or some kind of flock that he can take charge of. Ever vigilant, he tends to be distrustful of strangers and makes an excellent watchdog. You should give your Pyr Shep plenty of socialization, beginning in early puppyhood, to ensure that his lively personality develops to its fullest potential.",
+    "Size": "Rough-faced Pyrenean Shepherd males stand 15.5 to 18.5 inches at the shoulder, smooth-faced males 15.5 to 21 inches. Rough-faced females are 15 to 18 inches tall, smooth-faced females 15.5 to 20.5 inches.In both varieties, the dog should carry a minimum of weight: just enough flesh to cover the bones. The typical weight range is 25 to 30 pounds.",
+    "Coat Color And Grooming": "The Pyrenean Shepherd comes in two varieties, rough-faced and smooth-faced. Both varieties can be born in the same litter. Rough-faced Pyr Sheps have long or medium-length hair that's flat or slightly wavy, with a harsh texture. The hair on the end of the muzzle and chin is naturally short, with longer, swept-back hair on the sides of the muzzle and cheeks, giving the dog a windblown look.The smooth-faced Pyr Shep has a face covered with short, fine hairs. On the sides of the head, the hair is somewhat longer, creating a modest ruff. The fine, soft hair on the body reaches a maximum length of two inches along the back and three inches for the ruff and culottes (the hair covering the rear end and back legs).This is a dog of many colors, and both varieties of Pyr Shep can be a shade of fawn that ranges from tan to copper, with or without a mixture of black hairs; various shades of gray; blue merle; brindle; black; and black with white markings over no more than 30 percent of the body."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "15 to 21 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "25 to 30 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "15 to 17 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

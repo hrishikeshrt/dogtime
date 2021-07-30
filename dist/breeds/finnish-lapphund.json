@@ -1,0 +1,186 @@
+{
+  "id": "finnish-lapphund",
+  "url": "https://dogtime.com/dog-breeds/finnish-lapphund",
+  "name": "Finnish Lapphund",
+  "intro": "Believe it or not, the hard-working Finnish Lapphund dog breed earned their keep herding reindeer in their native Lapland, in the far north of Finland. Friendly and gentle, the breed retains a strong herding instinct.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nAs you may have guessed, Finnish Lapphunds fair well in cold climates. They\u2019re also highly affectionate with their families, even kids and other dogs. They do, however, need plenty of exercise. Playtime, walks, and dog sports will keep your pup happy and entertained.\nSee below for complete list of dog breed traits and facts about Finnish Lapphunds!",
+  "description": {
+    "": "No, his name doesn't mean lapdog. This smart, hard-working dog originated in Lapland, in Finland's far north, where he was used to herd reindeer for the semi-nomadic Sami people. These days, he still has a strong herding instinct that can be put to use with more common varieties of livestock. He can also enjoy other dog jobs such as agility, obedience, and therapy work.Friendly toward people and gentle with children, he's a good companion for people who don't mind a dog with a long, profuse coat.",
+    "Size": "Males stand 19.25 to 20.5 inches at the shoulder; females, 17.5 to 18.75 inches. Weight ranges from 33 to 53 pounds.",
+    "Coat Color And Grooming": "A long, coarse outer coat tops a soft, thick undercoat. The Finnish Lapphund can be found in all colors, including white, black, red, and brown, as well as combinations of colors such as black and tan."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "17 to 20 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "33 to 53 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

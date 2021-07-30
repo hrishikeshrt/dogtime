@@ -1,0 +1,186 @@
+{
+  "id": "lancashire-heeler",
+  "url": "https://dogtime.com/dog-breeds/lancashire-heeler",
+  "name": "Lancashire Heeler",
+  "intro": "The Lancashire Heeler was once used to drive livestock to market and hunt rats and rabbits at home. Now, they\u2019re a popular companion dog breed in their native Britain.\nAlthough these are purebred dogs, you may find them in the care of rescue groups or shelters. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home!\nLancashire Heelers resemble their Corgi cousins and can be intelligent, mischievous, or stubborn. That can make them difficult to train, so they\u2019ll probably do best with an experienced pet parent. If you can meet the breed\u2019s needs, you\u2019ll have a loving, loyal, playful member of the family!\nSee below for full list dog breed traits and facts about Lancashire Heelers!",
+  "description": {
+    "": "In his past, the Lancashire Heeler was used to drive livestock to market. He was short enough to nip at their heels to move them along and agile enough to leap out of the way if they tried to kick. When he wasn't on the road to the market, he helped out on the farm by catching rats and rabbits.He resembles his cousins the Cardigan and Pembroke Welsh Corgis but has a black-and-tan coloration that may be a sign of Manchester Terrier heritage. In his homeland of Great Britain, he's a popular companion, show dog, and agility and obedience competitor. He also competes at herding trials.This is an intelligent dog who learns quickly, but he has a mind of his own and can be stubborn as well as mischievously inventive. Train him with kind but firm consistency and positive reinforcement. With other people he's generally friendly but he can be sharp toward other dogs. Early socialization with people and other dogs is important. He's best suited to families with school-age children and enjoys having a yard where he can run. Be sure it's escapeproof!",
+    "Size": "The ideal height for a male Lancashire Heeler is 12 inches at the shoulder; for females, the ideal is 10 inches. They weigh approximately 14 pounds.",
+    "Coat Color And Grooming": "The Lancashire Heeler sports a coarse, shiny coat that can be black or liver-colored, both with tan markings. They have a fine undercoat below a thick, weather-resistant topcoat. The coat is slightly longer around the neck.The coat is low-maintenance, and regular brushing with a firm bristle brush should keep it in good shape. Bathe your Lancashire Heeler only if he really needs it."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "10 to 12 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "13 to 15 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "9 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

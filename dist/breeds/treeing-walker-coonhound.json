@@ -1,0 +1,186 @@
+{
+  "id": "treeing-walker-coonhound",
+  "url": "https://dogtime.com/dog-breeds/treeing-walker-coonhound",
+  "name": "Treeing Walker Coonhound",
+  "intro": "The Treeing Walker Coonhound dog breed has a short, clear bark and a passion for the hunt. Some are shy, some are confident, but they\u2019re all hounds \u2014 meaning, they need patient training and plenty of exercise.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nWith high energy and a habit of sounding off, these pups might not be a great choice for apartment dwellers. They need a good amount of exercise and room to roam. Those with big backyards can provide a more suitable home, so long as the yard is securely fenced. These dogs have hunting instincts and may choose to take off after critters that wander past. Although Treeing Walker Coonhounds may vary in personality traits, they all need plenty of physical activity and an experienced trainer to stay happy and well behaved.\nSee below for complete dog breed traits and facts about Treeing Walker Coonhounds!",
+  "description": {
+    "": "Descended from English Foxhounds and formerly classified as an English Coonhound, the Treeing Walker earned his name by trailing game faster than other coonhounds and then treeing it until the hunter arrived. The Walker part of the name comes from Kentuckian John W. Walker, who helped develop the breed.This classic tricolor hound has a racy build, a short, clear bark, and a strong desire to hunt. Personalities range from outgoing to bashful to protective. Like any hound, the Treeing Walker requires patient, consistent training and plenty of daily exercise.",
+    "Size": "Males stand 22 to 27 inches at the shoulder; females, 20 to 25 inches. Weight ranges from 45 to 80 pounds.",
+    "Coat Color And Grooming": "The smooth and shiny tricolor coat can be white with black spots and tan markings, or black with white markings and tan trim, known as saddleback or blanketback."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "20 to 27 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "45 to 80 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 13 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 3
+    }
+  ]
+}

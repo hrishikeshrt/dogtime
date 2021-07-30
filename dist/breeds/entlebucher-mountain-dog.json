@@ -1,0 +1,186 @@
+{
+  "id": "entlebucher-mountain-dog",
+  "url": "https://dogtime.com/dog-breeds/entlebucher-mountain-dog",
+  "name": "Entlebucher Mountain Dog",
+  "intro": "The Entlebucher Mountain Dog has the independent spirit of other herding breeds, but still relishes spending time with their people \u2014 especially if they give this dog a job to do. They can be territorial and will bark to warn you of visitors.\nAlthough these are purebred dogs, you may find them in the care of shelters and rescues. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nEntlebucher Mountain Dogs are highly affectionate with their human family members, and they\u2019re fairly easy to groom. But make no mistake \u2014 these dogs need lots of exercise. Novice pet parents may find this pooch to be a bit more than they bargained for. But if you can keep up with your pup\u2019s energy, you\u2019ll have a loving, lifelong friend.\nSee below for complete list of dog breed traits and facts about Entlebucher Mountain Dogs!",
+  "description": {
+    "": "The Entlebucher, or Entle for short, is a Swiss herding breed related to the Appenzeller, the Bernese Mountain Dog, and the Greater Swiss Mountain Dog; of the four, he's the smallest.He's known for his intelligence, personable attitutude, agility, and loyalty. He's independent and self-confident, yet he bonds strongly to his person and is happiest spending the day at his family's side. He's got energy to burn, and needs an owner who can give him about an hour of vigorous exercise a day \u2014 if not herding flocks, then competing in dog sports like tracking, frisbee, or agility. Like other smart working dogs, he loves having jobs to do, so begin training this smart cookie early, teaching him to gather up dirty laundry, bring in the newspaper, fetch your slippers, or other useful tasks.The Entlebucher can be territorial and will bark to announce the presence of strangers or arrival of guests. He's aloof with people he doesn't know, and like any dog, he needs early socialization to learn how to behave around strangers and other dogs. He loves his kids but, because he also loves roughousing, he must learn to be gentle with little ones. He may try to \"herd\" his kids by nipping at their heels.",
+    "Size": "Males are 17 to 21 inches at the shoulder; females are 16 to 20 inches. Weight ranges from 45 to 65 pounds.",
+    "Coat Color And Grooming": "The Entle's coat is thick, dense, and tricolored. The coloring is mostly shiny black, with white on the chest, all four feet, and the tip of the tail, as well as a white blaze from the muzzle to the top of the head. Areas between the black and white are rust-colored. They have a thick undercoat and a top coat. Weekly brushing will help keep shedding to a minimum."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "16 to 20 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "45 to 65 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 13 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "sloughi",
+  "url": "https://dogtime.com/dog-breeds/sloughi",
+  "name": "Sloughi",
+  "intro": "The Sloughi is a one-person or one-family dog breed who\u2019s affectionate with their own people but aloof toward strangers. Like many hounds, their stubborn nature can make them too much of a handful for first-time dog parents.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nSloughis have high energy levels and need lots of exercise to stay happy and healthy. Couch potatoes, move on to a breed that moves at your speed because this pup will leave you in the dust if you can\u2019t handle physical activity. But for a pet parent who can keep up, this dog will be an loving, lifelong companion.\nSee below for complete list of dog breed traits and facts about Sloughis!",
+  "description": {
+    "": "This lean, leggy sighthound likes his comforts \u2014 especially soft bedding and, ideally, access to the furniture. Noble and haughty in demeanor, he's affectionate with his own people but aloof toward strangers. He gets along with older children who understand how to interact with dogs, but isn't a good match for a family with young kids. Sloughis are sleek, clean, and quiet, but their stubborn hound nature can make them a poor choice for first-time dog owners.",
+    "Size": "Males stand 26 to 29 inches at the shoulder; females, 24 to 27 inches. Males generally weigh 50 to 63 pounds, while females are around 40 to 50 pounds.",
+    "Coat Color And Grooming": "The Sloughi's coat is short, dense, and fine. Hair ranges in color from light sand through red sand (fawn), with or without a black mask; with or without a black mantle; with or without black brindling; and with or without a black overlay."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "24 to 29 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "40 to 63 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 16 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 3
+    }
+  ]
+}

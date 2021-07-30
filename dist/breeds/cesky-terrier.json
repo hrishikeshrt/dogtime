@@ -1,0 +1,186 @@
+{
+  "id": "cesky-terrier",
+  "url": "https://dogtime.com/dog-breeds/cesky-terrier",
+  "name": "Cesky Terrier",
+  "intro": "The Czech native Cesky Terrier dog breed descends from the Scottish Terrier and Sealyham Terrier. The Cesky Terrier was created to hunt vermin, but with their loving personality, moderate exercise needs, and small size, they make for a great companion dog, too.\nAlthough these are purebred dogs, you may find them in the care of shelters and rescues. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nThese small dogs are very affectionate and playful with their humans. Their small size and moderate exercise needs also make them adaptable to apartment life. They even fit in well with novice pet parents and pick up on training fairly easily. While they\u2019ll enjoy cuddling on the couch, they can also compete in several dog sports and keep up with energetic family members.\nSee below for complete list of dog breed traits and facts about Cesky Terriers!",
+  "description": {
+    "": "The result of a cross between a Scottish Terrier and a Sealyham Terrier \u2014 with the goal of creating a dog that could go after vermin without getting stuck in their dens \u2014 the Cesky (pronounced chess-key) was created in 1948 in what was then Czechoslovakia.Mellower than most terriers, the Cesky needs moderate amounts of exercise. And unlike many terriers, he has the advantage of a soft coat that can be trimmed with clippers rather than requiring hand-stripping (plucking dead hairs by hand).Loving and devoted, he's also active enough to compete in earthdog trials, agility, obedience, and tracking. The Cesky is also a successful therapy dog. He gets along well with children and other pets, especially if he's raised with them.",
+    "Size": "Cesky Terriers stand 10 to 13 inches at the shoulder and can weigh 13 to 30 pounds, although most fall in the 16- to 22-pound range.",
+    "Coat Color And Grooming": "Cesky Terriers have a soft bluish-gray coat that ranges from silver to dark charcoal. Puppies are all black, and the coat lightens over the first few years of life. Unlike many terriers, he has the advantage of a soft coat that can be trimmed with clippers rather than requiring hand-stripping (plucking dead hairs by hand).The Cesky coat needs weekly brushing and clipping every six to eight weeks."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Terrier Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "10 to 13 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "13 to 30 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 2
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "norwegian-buhund",
+  "url": "https://dogtime.com/dog-breeds/norwegian-buhund",
+  "name": "Norwegian Buhund",
+  "intro": "Intelligent, independent, and eager to please, the Norwegian Buhund dog breed can handle all kinds of dog jobs and sports with ease. They need lots of exercise and attention, and they\u2019re quick learners.\nAlthough these are fairly rare, purebred dogs, you may find them in the care of shelters and rescue groups. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home.\nAs you might have guessed from their appearance, Norwegian Buhunds handle cold weather with ease. They\u2019re also highly affectionate to the humans in their lives, even with kids. This pup will happily join in for a fun play session in the snow!\nSee below for complete list dog breed traits and facts about Norwegian Buhunds!",
+  "description": {
+    "": "The Norwegian Buhund hails from Norway, where he was responsible for herding livestock and guarding the farm. He has a trait that's rare among the Spitz breeds: a desire to please. Add in his intelligence and independence, and you get a highly trainable and capable dog. He can handle jobs ranging from hearing dog, to police dog, to competitor in agility and obedience trials. His alert nature and tendency to bark make him a good watchdog, although he's probably too friendly to pose any real threat.This is an active \u2014 some say tireless \u2014 breed who needs a lot of vigorous exercise and playtime daily. He's highly affectionate with his family, including the kids, and enjoys a cuddle on the couch as well as a romp in the park. Kind, consistent training is essential for this smart dog, as is family involvement. He won't want to be left out of anything!",
+    "Size": "The Norwegian Buhund is just short of medium-sized. Males stand 17 to 18.5 inches at the shoulder and weigh 31 to 40 pounds; females stand 16 to 17.5 inches and weigh 26 to 35 pounds.",
+    "Coat Color And Grooming": "The Norwegian Buhund has a soft, dense undercoat topped by a thick, hard outer coat. It comes in wheaten \u2014 pale cream to bright orange, with or without dark-tipped hairs and as little white as possible \u2014 or black, with as little white as possible. The coat on the head and front of the legs is shorter than on the rest of the body.His coat is fairly easy to care for, needing only a good brushing several times a week. During shedding seasons, daily brushing sessions are a good idea."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "16 to 18 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "26 to 40 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

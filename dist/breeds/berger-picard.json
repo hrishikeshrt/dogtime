@@ -1,0 +1,186 @@
+{
+  "id": "berger-picard",
+  "url": "https://dogtime.com/dog-breeds/berger-picard",
+  "name": "Berger Picard",
+  "intro": "Also known as the Picardy Shepherd, the Berger Picard dog breed is thought to be the oldest of the French sheepdogs. Their scruffy looks and lively intelligence have won them plenty of fans over the centuries, and more recently, they\u2019ve won movie roles.\nAlthough these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home.\nBerger Picards pick up training easily but can have a stubborn streak. They also have high energy and need plenty of exercise. However, if you can meet the breed\u2019s needs, you\u2019ll have a loyal, affectionate member of the family who even adores kids.\nSee below for all dog breed traits and facts about Berger Picards!",
+  "description": {
+    "": "With a name like this \u2014 pronounced bare ZHAY pee CARR \u2014 you've got to be good. The oldest of the French sheepdogs, the Berger Picard is believed to have arrived in France with the Celts sometime around 800 A.D. The breed has been depicted for centuries in tapestries, engravings, and woodcuts, but these days he's a movie star, appearing in such flicks as \"Because of Winn Dixie,\" \"Daniel and the Superdogs,\" and \"Are We Done Yet?\"This medium-size dog with the prick ears and thick eyebrows has a lively, intelligent personality. They endear themselves with their humanlike gaze and goofy grins and stand out as resilient playmates for kids. Thanks to their intelligence, they respond well to training, although they can occasionally be stubborn. They're sensitive to your tone of voice, so even if you get impatient, try to give commands cheerfully \u2014 it generally works best.They usually get along fine with cats and other small pets in the household if they were raised with them. Some Berger Picards can be barky, something to consider if you've got nearby neighbors. Like other dogs bred to do a physically demanding job \u2014 in this case, herding sheep and cattle \u2014 Berger Picards need daily exercise, and can grow bored or destructive without it.The population of Berger Picards was devestated by World Wars I and II, and they remain rare. Today there are only about 3500 Berger Picards in France.",
+    "Size": "Males stand 23.5 to 25.5 inches at the shoulder, females stand 21.5 to 23.5 inches. They weigh 50 to 70 pounds.",
+    "Coat Color And Grooming": "The medium-length, weatherproof coat is harsh and crisp to the touch. It comes in a range of fawn and gray shades, including light fawn, dark fawn, gray, gray with black highlights, blue gray, gray red, and brindle.Grooming needs are minimal; they need only a monthly combing and brushing and a wipe-down when they get something on their coats. They shed lightly and don't have a doggie smell."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Herding Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "1 foot, 9 inches to 2 feet, 1 inch tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "50 to 70 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "13 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "bluetick-coonhound",
+  "url": "https://dogtime.com/dog-breeds/bluetick-coonhound",
+  "name": "Bluetick Coonhound",
+  "intro": "Fast and muscular, the Bluetick Coonhound dog breed stands out for their striking coat. They have a pleasantly pleading expression and a big bawl mouth \u2014 meaning they have a long, drawn out bark. Although they\u2019re a hunter first and foremost, the Bluetick can be a fine housedog and loves their people.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nDogs of this breed are highly sensitive and affectionate. With proper socialization training, they\u2019ll even get along with kids in the home. However, with their high energy levels and exercise needs, they don\u2019t make for the best apartment pets. They need to stay active with lots of walks, playtime, and room to roam. Families with large homes would do well to fence in their yards, as these dogs may chase critters who wander by.\nSee below for full list of dog breed traits and facts about Bluetick Coonhounds!",
+  "description": {
+    "": "These dogs have a noble history, being descendants of the French Grand Bleu de Gascogne and the English Foxhound, many of whom were brought to the United States in colonial times. On the trail, the Bluetick may be slower than some of his coonhound compatriots, but he has a superior nose and a never-say-die attitude.Although he's a hunter first and foremost, the Bluetick can be a fine housedog and loves his people. Bear in mind that hounds are a challenge to train. Be patient and persistent as you help them find their motivation, which is more likely to be food than any real desire to please.",
+    "Size": "Males stand 24 to 30 inches at the shoulder and weigh 55 to 100 pounds. Females are 23 to 28 inches and weigh 45 to 85 pounds.",
+    "Coat Color And Grooming": "The smooth, glossy coat is dark blue, thickly mottled with black spots on the back, ears, and sides. The head and ears are mostly black, with tan markings over the eyes and on the cheeks. The Bluetick Coonhound has dark red ticking on the feet, the lower legs below the body line, the chest, and below the tail."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "23 to 30 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "45 to 100 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

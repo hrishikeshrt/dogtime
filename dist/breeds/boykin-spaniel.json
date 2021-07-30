@@ -1,0 +1,186 @@
+{
+  "id": "boykin-spaniel",
+  "url": "https://dogtime.com/dog-breeds/boykin-spaniel",
+  "name": "Boykin Spaniel",
+  "intro": "Dogs of the Boykin Spaniel breed are known for their hunting skills, but they make just as good companions to families as to hunters, thanks to their smarts and their friendly confidence. The family should be an active one, however; this dog needs lots of exercise.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nThese smart pups adore the human members of their families, including kids. They can even get along well with other dogs in the home with proper socialization. However, their high energy may make them a poor choice for apartment dwellers. Intelligent and playful, these dogs need plenty of physical and mental stimulation to stay happy. If you can keep up with an active pup, this may be the breed for you!\nSee below for complete list of dog breed traits and facts about Boykin Spaniels!",
+  "description": {
+    "": "Created by South Carolinians for hunting turkeys and waterfowl in the state's swamps, the medium-size brown dog encompasses the best of the spaniel talents and personality: An ability to flush and retrieve, willingness to work, attractive hanging ears, and a friendly wagging tail. Besides being a great all-around hunting dog in a convenient size, he's alert, self-confident, and smart, all of which make him an excellent family companion as well. He gets along with other dogs and children and takes to training like a duck on a june bug.",
+    "Size": "Males stand 15.5 to 18 inches at the shoulder; females, 14 to 16.5 inches. Females are 25 to 35 pounds, males weigh in at 30 to 40 pounds.",
+    "Coat Color And Grooming": "The medium-length outer coat is flat to slightly wavy and tops a short, dense undercoat that keeps the dog warm when retrieving from water. Light feathering covers the ears, chest, legs, and belly. In color, he's a rich, solid liver, brown, or dark chocolate."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "14 to 18 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "25 to 40 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

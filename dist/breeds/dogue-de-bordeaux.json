@@ -1,0 +1,186 @@
+{
+  "id": "dogue-de-bordeaux",
+  "url": "https://dogtime.com/dog-breeds/dogue-de-bordeaux",
+  "name": "Dogue de Bordeaux",
+  "intro": "This dog breed\u2018s most famous member co-starred with Tom Hanks in the 1989 movie, Turner and Hooch. Loyal, self-assured, and territorial, the Dogue de Bordeaux requires lots of training and socialization.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nThe first thing you\u2019ll notice about the DDB, as they\u2019re sometimes known, is that massive head. You may also spot a bit of slobber hanging out of their mouth. Dogs of this breed may seem intimidating at first, and they will indeed protect their homes and families if they\u2019re called to do so. But generally, these pups remain docile and have sweet dispositions. Don\u2019t be fooled, though. This breed\u2019s stubborn side means they need experienced pet parents who will keep up with consistent training. If you can do that, you\u2019ll have a loving, faithful companion!\nSee below for full list of Dogue de Bordeaux characteristics!",
+  "description": {
+    "": "The DDB, as he's nicknamed, originated in France's Bordeaux region 600 or more years ago. He's known for his massive head, fearless temperament, and powerful body. The Dogue de Bordeaux first came to the attention of the American public with the 1989 release of the Tom Hanks movie Turner and Hooch and has gained popularity ever since.A devoted and affectionate family dog, he has a reputation for being sweet and docile, but he can also be stubborn and arrogant. Patient, consistent training is a must, as is early and extensive socialization to prevent aggression toward other animals and unwarranted aggression toward strangers. Loyal, self-assured, and territorial, he's a superb guard dog who's also capable of competing in many sports and activities, including carting, obedience, therapy work, tracking, and search and rescue.",
+    "Size": "Males stand 23.5 to 27 inches at the shoulder and weigh a minimum of 110 pounds. Females stand 23 to 26 inches at the shoulder and weigh a minimum of 99 pounds.",
+    "Coat Color And Grooming": "The Dogue de Bordeaux's coat is fine, short, and soft. The color ranges from a rich shade of light fawn to dark red fawn and covers thick, loose skin."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Working Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "23 to 27 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "Starts at 100 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "8 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 1
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 1
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 2
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 2
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 3
+    }
+  ]
+}

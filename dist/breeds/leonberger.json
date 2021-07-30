@@ -1,0 +1,186 @@
+{
+  "id": "leonberger",
+  "url": "https://dogtime.com/dog-breeds/leonberger",
+  "name": "Leonberger",
+  "intro": "The jumbo-sized Leonberger dog breed is a mix of the Newfoundland, longhaired Saint Bernard, and Great Pyrenees.\nAlthough these are purebred dogs, you may find them in the care of shelters and rescues. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nThey need a good deal of exercise, attention, and space, but with for right pet parent, they can be a friend like no other. With their lion-like looks and deep bark, they make for an intimidating watch dog.\nSee below for complete list of dog breed traits and facts about Leonbergers!",
+  "description": {
+    "": "Originally from Germany, where he was created through crosses between Newfoundlands, longhaired Saint Bernards, plus some Great Pyrenees, this giant breed requires a commitment to training and a high tolerance for mischief and mess. He looks beautiful in the show ring, but his natural state is more along the lines of damp and muddy than leonine elegance. That, along with long fur and copious shedding, makes this a poor choice for neatniks. Early and extensive socialization and training with plenty of positive reinforcement and consistent expectations will turn him into a family friend like no other, but without them he's mischievous and destructive.The Leo's high energy levels and intelligence make him a super competitor in agility and obedience trials, and he's also found doing therapy visits and water rescue work. Leos like living in a pride of their own kind, but they get along well with other animals, too, including cats and horses. Because of their great size, they should never be left alone with young children. This is a sensitive dog who dislikes family arguments. Keep your disagreements private or he may try to intervene.The Leo loves being with his people and won't be happy to spend all his time alone in the backyard. Expect to give him about an hour of exercise daily.Take the Leo's size into consideration before bringing one home; this breed needs a family with a yard and an SUV, not a studio apartment and a Miata. The coat sheds heavily twice a year and moderately the rest of the time. On the plus side, his deep bark and huge size are more than enough to put off any halfway intelligent intruder.",
+    "Size": "Male Leonbergers stand 28 to 31.5 inches; females, 25.5 to 29.5 inches. Weight ranges from 120 to 170 pounds.",
+    "Coat Color And Grooming": "The Leonberger's long, water-resistant double coat is straight and moderately soft. It comes in lion-yellow, golden to reddish-brown, with a black mask.Leonbergers need brushing at least once a week. (Or after every walk, if you want leaves and other detritus to come off on your brush instead of your furniture.) They shed moderately, with twice-yearly periods of heavier shedding."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Working Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "25 to 31 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "120 to 170 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+[
+  {
+    "id": "1",
+    "question": "1. Which phrase best describes what you're looking for in a dog?",
+    "answers": [
+      {
+        "id": "1",
+        "name": "quiz[answers][1]",
+        "answer": "A cuddle friend who doesn't need tons of exercise"
+      },
+      {
+        "id": "2",
+        "name": "quiz[answers][1]",
+        "answer": "Sporty, high-energy dog"
+      },
+      {
+        "id": "3",
+        "name": "quiz[answers][1]",
+        "answer": "Family-friendly dog"
+      },
+      {
+        "id": "4",
+        "name": "quiz[answers][1]",
+        "answer": "A loyal companion"
+      },
+      {
+        "id": "5",
+        "name": "quiz[answers][1]",
+        "answer": "An agility wiz"
+      },
+      {
+        "id": "6",
+        "name": "quiz[answers][1]",
+        "answer": "None of these apply/not sure yet"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "2. What size dog are you considering?",
+    "answers": [
+      {
+        "id": "7",
+        "name": "quiz[answers][2]",
+        "answer": "I prefer small dogs"
+      },
+      {
+        "id": "8",
+        "name": "quiz[answers][2]",
+        "answer": "I prefer small or medium"
+      },
+      {
+        "id": "9",
+        "name": "quiz[answers][2]",
+        "answer": "I prefer medium dogs"
+      },
+      {
+        "id": "10",
+        "name": "quiz[answers][2]",
+        "answer": "I prefer medium or large"
+      },
+      {
+        "id": "11",
+        "name": "quiz[answers][2]",
+        "answer": "I prefer large dogs"
+      },
+      {
+        "id": "12",
+        "name": "quiz[answers][2]",
+        "answer": "Any size is fine"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "question": "3. What comes closest to your ideal way to spend an hour with your dog?",
+    "answers": [
+      {
+        "id": "13",
+        "name": "quiz[answers][3]",
+        "answer": "Tossing a Frisbee or ball at the beach"
+      },
+      {
+        "id": "14",
+        "name": "quiz[answers][3]",
+        "answer": "Meeting up with others in a dog park"
+      },
+      {
+        "id": "15",
+        "name": "quiz[answers][3]",
+        "answer": "Hanging with friends at a cafe"
+      },
+      {
+        "id": "16",
+        "name": "quiz[answers][3]",
+        "answer": "Taking a walk together"
+      },
+      {
+        "id": "17",
+        "name": "quiz[answers][3]",
+        "answer": "Snuggled up on the couch"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "question": "4. How smart would you like your dog to be?",
+    "answers": [
+      {
+        "id": "18",
+        "name": "quiz[answers][4]",
+        "answer": "Smart enough to keep me on my toes"
+      },
+      {
+        "id": "19",
+        "name": "quiz[answers][4]",
+        "answer": "Responsive, but no smarter than I am!"
+      },
+      {
+        "id": "20",
+        "name": "quiz[answers][4]",
+        "answer": "Doesn't matter"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "question": "5. How much do you exercise?",
+    "answers": [
+      {
+        "id": "21",
+        "name": "quiz[answers][5]",
+        "answer": "Frequently"
+      },
+      {
+        "id": "22",
+        "name": "quiz[answers][5]",
+        "answer": "Occasionally"
+      },
+      {
+        "id": "23",
+        "name": "quiz[answers][5]",
+        "answer": "For me, it's a walk to the fridge"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "question": "6. Are you looking for your dog to be a jogging companion?",
+    "answers": [
+      {
+        "id": "24",
+        "name": "quiz[answers][6]",
+        "answer": "Yes"
+      },
+      {
+        "id": "25",
+        "name": "quiz[answers][6]",
+        "answer": "Now and then"
+      },
+      {
+        "id": "26",
+        "name": "quiz[answers][6]",
+        "answer": "I'm just looking for a companion"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "question": "7. How do you tend to react when a good friend starts telling you a story you've already heard?",
+    "answers": [
+      {
+        "id": "27",
+        "name": "quiz[answers][7]",
+        "answer": "Interrupt and beat her to the punchline"
+      },
+      {
+        "id": "28",
+        "name": "quiz[answers][7]",
+        "answer": "Smile and nod, smile and nod"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "question": "8. How do you react when another driver cuts you off while you're on the highway?",
+    "answers": [
+      {
+        "id": "29",
+        "name": "quiz[answers][8]",
+        "answer": "Accelerate and try to cut him off"
+      },
+      {
+        "id": "30",
+        "name": "quiz[answers][8]",
+        "answer": "Lean on the horn but stay out of his way"
+      },
+      {
+        "id": "31",
+        "name": "quiz[answers][8]",
+        "answer": "Slow down to give him some space"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "question": "9. What kind of home do you have?",
+    "answers": [
+      {
+        "id": "32",
+        "name": "quiz[answers][9]",
+        "answer": "Small apartment, no yard"
+      },
+      {
+        "id": "33",
+        "name": "quiz[answers][9]",
+        "answer": "Medium-sized apartment, house, or duplex \u2014 no yard"
+      },
+      {
+        "id": "34",
+        "name": "quiz[answers][9]",
+        "answer": "Standalone house, with yard"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "question": "10. What kind of amusement park ride best describes the energy in your home?",
+    "answers": [
+      {
+        "id": "35",
+        "name": "quiz[answers][10]",
+        "answer": "Carousel (not many surprises)"
+      },
+      {
+        "id": "36",
+        "name": "quiz[answers][10]",
+        "answer": "Ferris wheel (ups and downs but fairly predictable)"
+      },
+      {
+        "id": "37",
+        "name": "quiz[answers][10]",
+        "answer": "Log ride (boisterous and noisy but not out of control)"
+      },
+      {
+        "id": "38",
+        "name": "quiz[answers][10]",
+        "answer": "Roller coaster (sometimes a little too exciting and unpredictable)"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "question": "11. Are you planning to bring a new baby into your home within the next few years?",
+    "answers": [
+      {
+        "id": "39",
+        "name": "quiz[answers][11]",
+        "answer": "Yes"
+      },
+      {
+        "id": "40",
+        "name": "quiz[answers][11]",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "question": "12. How old are the children in your home?",
+    "answers": [
+      {
+        "id": "41",
+        "name": "quiz[answers][12]",
+        "answer": "7 and under"
+      },
+      {
+        "id": "42",
+        "name": "quiz[answers][12]",
+        "answer": "8 and older"
+      },
+      {
+        "id": "43",
+        "name": "quiz[answers][12]",
+        "answer": "I have children in both of the above categories"
+      },
+      {
+        "id": "44",
+        "name": "quiz[answers][12]",
+        "answer": "I don't have children at home"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "question": "13. Are you or is someone in your household allergic to dogs?",
+    "answers": [
+      {
+        "id": "45",
+        "name": "quiz[answers][13]",
+        "answer": "Yes"
+      },
+      {
+        "id": "46",
+        "name": "quiz[answers][13]",
+        "answer": "I don't know"
+      },
+      {
+        "id": "47",
+        "name": "quiz[answers][13]",
+        "answer": "No"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "question": "14. Plenty of mental and physical exercise is essential for a happy dog. What arrangements are you planning to make for your dog during a typical week day?",
+    "answers": [
+      {
+        "id": "48",
+        "name": "quiz[answers][14]",
+        "answer": "I'll make sure he's walked when I can't be there."
+      },
+      {
+        "id": "49",
+        "name": "quiz[answers][14]",
+        "answer": "I'll do my best to make sure he's walked, schedule permitting."
+      },
+      {
+        "id": "50",
+        "name": "quiz[answers][14]",
+        "answer": "I'm planning to leave him alone until dinnertime, when I get home."
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "question": "15. How would you rate your health?",
+    "answers": [
+      {
+        "id": "51",
+        "name": "quiz[answers][15]",
+        "answer": "Excellent"
+      },
+      {
+        "id": "52",
+        "name": "quiz[answers][15]",
+        "answer": "Good"
+      },
+      {
+        "id": "53",
+        "name": "quiz[answers][15]",
+        "answer": "Fair"
+      },
+      {
+        "id": "54",
+        "name": "quiz[answers][15]",
+        "answer": "Poor"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "question": "16. When it comes to spiffing up your dog, you:",
+    "answers": [
+      {
+        "id": "55",
+        "name": "quiz[answers][16]",
+        "answer": "Think nothing of giving him a haircut or bath as needed"
+      },
+      {
+        "id": "56",
+        "name": "quiz[answers][16]",
+        "answer": "Don't mind giving him a bath, but I draw the line at haircuts"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "question": "17. How much does fur bother you?",
+    "answers": [
+      {
+        "id": "57",
+        "name": "quiz[answers][17]",
+        "answer": "I'm oblivious to it"
+      },
+      {
+        "id": "58",
+        "name": "quiz[answers][17]",
+        "answer": "I don't mind a little fur"
+      },
+      {
+        "id": "59",
+        "name": "quiz[answers][17]",
+        "answer": "I hate the idea of hair on my clothes or furniture"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "question": "18. How much training would you like to do?",
+    "answers": [
+      {
+        "id": "60",
+        "name": "quiz[answers][18]",
+        "answer": "Teach my dog the basics but once that's done I'd like to be done"
+      },
+      {
+        "id": "61",
+        "name": "quiz[answers][18]",
+        "answer": "I consider training an ongoing process"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "question": "19. What's your best guess at describing your future dog parenting style?",
+    "answers": [
+      {
+        "id": "62",
+        "name": "quiz[answers][19]",
+        "answer": "I'm more comfortable being a buddy than a parent"
+      },
+      {
+        "id": "63",
+        "name": "quiz[answers][19]",
+        "answer": "I'm prepared to set boundaries as needed but want to spend time playing with my dog, too"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "question": "20. Are you willing to train your dog to walk without a leash?",
+    "answers": [
+      {
+        "id": "64",
+        "name": "quiz[answers][20]",
+        "answer": "Yes"
+      },
+      {
+        "id": "65",
+        "name": "quiz[answers][20]",
+        "answer": "I'd like to walk off-leash but don't want to spend much time training him"
+      },
+      {
+        "id": "66",
+        "name": "quiz[answers][20]",
+        "answer": "It doesn't matter to me whether I can walk my dog off-leash"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "question": "21. How much does drooling bother you?",
+    "answers": [
+      {
+        "id": "67",
+        "name": "quiz[answers][21]",
+        "answer": "Not a bit."
+      },
+      {
+        "id": "68",
+        "name": "quiz[answers][21]",
+        "answer": "Not my favorite, but I can deal with a little. Especially if it's the right dog."
+      },
+      {
+        "id": "69",
+        "name": "quiz[answers][21]",
+        "answer": "I really don't like it."
+      }
+    ]
+  }
+]

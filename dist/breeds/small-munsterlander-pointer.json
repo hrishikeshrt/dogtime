@@ -1,0 +1,186 @@
+{
+  "id": "small-munsterlander-pointer",
+  "url": "https://dogtime.com/dog-breeds/small-munsterlander-pointer",
+  "name": "Small Munsterlander Pointer",
+  "intro": "This Small Munsterlander Pointer dog breed is affectionate with family, kids, and other dogs alike. The excel at water retrieving, and if you\u2019re not a hunter, you\u2019ll need to find other ways to give them physical and mental exercise \u2014 they need plenty of both.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nSmall Munsterlander Pointers are highly intelligent and easy to train, but novice pet parents should beware! These pups also have an intense side, and their prey drive could lead you on a chase around the neighborhood if you\u2019re not holding their leash tightly or keeping them in a fenced in yard. But for experienced pet parents who can keep up, this breed will make a loving, faithful family member.\nSee below for complete list of Small Munsterlander Pointer characteristics!",
+  "description": {
+    "": "Despite his name, the Small Munsterland Pointer is more of a medium-size dog. He's a popular hunting dog in Europe and is beginning to make a name for himself in the U.S. as well.Loyal and affectionate, he's generally easy to train and has great water-retrieving skills in both salt and freshwater. Like any sporting breed, he needs plenty of daily exercise. He does best in a home where he can use his hunting skills or turn his intelligence to a challenging dog sport or activity such as agility, flyball, or search and rescue work.",
+    "Size": "Males stand 20.5 to 22 inches at the shoulder; females, 19.75 to 21.25 inches. Weight ranges from 40 to 60 pounds.",
+    "Coat Color And Grooming": "The Small Munsterlander Pointer sports a brown-and-white coat with moderate feathering on the tail, belly, back of the forelegs, and inside the thighs."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "19 to 22 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "40 to 60 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

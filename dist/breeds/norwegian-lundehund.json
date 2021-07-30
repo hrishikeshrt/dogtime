@@ -1,0 +1,186 @@
+{
+  "id": "norwegian-lundehund",
+  "url": "https://dogtime.com/dog-breeds/norwegian-lundehund",
+  "name": "Norwegian Lundehund",
+  "intro": "With six toes on each foot \u2014 all of them double- or triple-jointed \u2014 and an amazing range of motion, the agile Norwegian Lundehund dog breed was used to scale cliffs and rob puffin nests of their eggs.\nAlthough these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home!\nAlong with the Norwegian Lundehund\u2019s acrobatic talents, they have a knack for barking and digging, making them a good choice only if you\u2019re prepared to give them lots of supervision and training. They can be very tough to housetrain. Experienced pet parents only!\nSee below for complete list of dog breed traits and facts about Norwegian Lundehunds!",
+  "description": {
+    "": "Also known as the puffin dog, this unique and acrobatic canine was discovered on a remote island in Norway, where he was used to scale cliffs and rob puffin nests of their eggs. With six toes on each foot, including two large, functional dewclaws, and an exceptional range of motion in his joints, he can climb just about anywhere in your house or yard and squirm through the narrowest of passageways. Heck, you might even see one trying his paw at Half Dome someday.Cheerful, inquisitive, and mischievous, this is a dog who needs close supervision to keep him out of trouble. He's a primitive breed who's difficult to housetrain and loves to bark and dig, so keep that in mind before deciding that it would be really cool to have a dog who can bend his head backwards, splay his front legs out to the side, and close his ears to keep out moisture and dirt. Provide him with plenty of early socialization to prevent shyness and noise sensitivity. And if you're a bird lover, well, just keep in mind this breed's original purpose.",
+    "Size": "The Norwegian Lundehund male stands 13.75 to 15 inches at the shoulder and weighs about 15.5 pounds. Females stand 12.5 to 13.75 inches and weigh around 13.25 pounds.",
+    "Coat Color And Grooming": "A dense, rough outer coat is insulated by a soft undercoat in reddish-brown to fawn with black hair tips; black or gray with white markings; or white with dark markings. Norwegian Lundehunds shed heavily and need regular brushing with a firm bristle brush."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Working Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "1 foot to 1 foot, 3 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "13 to 16 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

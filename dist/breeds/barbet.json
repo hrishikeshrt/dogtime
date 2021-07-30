@@ -1,0 +1,186 @@
+{
+  "id": "barbet",
+  "url": "https://dogtime.com/dog-breeds/barbet",
+  "name": "Barbet",
+  "intro": "This woolly sporting dog breed is fun-loving and smart. The Barbet was bred for retrieving waterfowl for hunters \u2014 and has the webbed feet to prove it \u2014 but they\u2019re also a talented agility competitor in their native France.\nAlthough these are purebred dogs, you may find them in the care of shelters and rescue groups. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home.\nBarbets do best with experienced pet parents. They have high energy and would love to participate in dog sports like agility competitions. If you can meet the breed\u2019s needs, you\u2019ll have an affectionate family member who even does well with kids and other dogs.\nSee below for full list dog breed traits and facts about Barbets!",
+  "description": {
+    "": "A relative of the Poodle and Briard, this French water dog with the webbed paws gets down and dirty in pursuit of waterfowl, earning him the nickname 'mud dog.' He real name comes from the French word barbe, meaning beard, due to his bearded face.The Barbet is no newcomer \u2014 the first written reference to the breed dates back to 1387, although the breed may have originated as early as the eighth century. For centuries the Barbet served as a water retriever for royalty and commoner alike, and his thick, waterproof coat helped earn him a reputation for braving the chilliest water. King Henry IV was one royal fan, and legend has it that the king's mistress was once reproached for bringing a Barbet to church.In addition to his retrieving skills, the Barbet is cherished for his versatility and his joyful, intelligent personality. In his homeland, he ranks among the top agility breeds and also loves to chase balls and flying discs. The breed is rare, with approximately 30 to 40 making their home in the United States and about 600 worldwide, but admirers of the Barbet hope others will come to share their love for this interesting dog.",
+    "Size": "Males stand 22.5 to 25 inches at the shoulder; females are 20.5 to 24 inches. They weigh from 37 to 62 pounds.",
+    "Coat Color And Grooming": "The Barbet's long, woolly coat is waterproof. It ranges from wavy to curly, and colors include solid black, gray, brown, fawn, pale fawn, red fawn, and white.Daily brushing and combing is a must to prevent mats from forming. The coat readily picks up burrs, twigs, and leaves, so you may want to have those daily grooming sessions after walks. Some owners clip the coat short to make it easier to maintain.The good news: The breed sheds little, and may be a good choice for those with allergies."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "20 to 25 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "37 to 62 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "13 to 15 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 2
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

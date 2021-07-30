@@ -1,0 +1,186 @@
+{
+  "id": "redbone-coonhound",
+  "url": "https://dogtime.com/dog-breeds/redbone-coonhound",
+  "name": "Redbone Coonhound",
+  "intro": "The Redbone Coonhound dog breed is a medium-sized hound who has a gorgeous red coat, the pleading expression common to hounds everywhere, and a sweet voice that sings out when they\u2019re on the hunt. However, they also bark a lot when they\u2019re not on the hunt, and take a lot of patience to train.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nSensitive and affectionate, these dogs adore their human families and can even make great playmates for kids so long as they go through early socialization training. Of course, you must always supervise playtime between children and dogs \u2014 even well trained dogs. As an intelligent and energetic breed, Redbone Coonhounds need plenty of mental and physical exercise, or else they may get bored and act out. Keep them busy, and you\u2019ll have a happy, active family companion.\nSee below for complete dog breed traits and facts about Redbone Coonhounds!",
+  "description": {
+    "": "The merry and gentle Redbone Coonhound descends from red hounds brought to North America by Scottish and Irish immigrants during colonial times. The medium-size, solid-red dogs have the pleading expression common to hounds everywhere and a sweet voice that sings out when they're on the hunt. Unfortunately, they also bark a lot at home, so make sure you live out in the country or have very tolerant neighbors.Friendly and loyal, Redbone Coonhounds make good companion dogs as long as they get plenty of exercise. Plan to be patient while training this breed; they often suffer from canine attention deficit disorder.",
+    "Size": "Males stand 22 to 27 inches at the shoulder; females, 21 to 25 inches. Redbone Coonhounds weigh 45 to 70 pounds.",
+    "Coat Color And Grooming": "The Redbone Coonhound coat is short and smooth. The color should be a rich, deep red, but the breed standard allows for a dark muzzle and a small amount of white on the chest and feet."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "21 to 27 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "45 to 70 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 5
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

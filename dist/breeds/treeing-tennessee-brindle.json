@@ -1,0 +1,186 @@
+{
+  "id": "treeing-tennessee-brindle",
+  "url": "https://dogtime.com/dog-breeds/treeing-tennessee-brindle",
+  "name": "Treeing Tennessee Brindle",
+  "intro": "The Treeing Tennessee Brindle dog breed stands out among the hounds for their brindle coat. But their fans are more interested in their ability to send prey up a tree and hold it until the hunter arrives.\nAlthough these are fairly rare, purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring one of these dogs home.\nTreeing Tennessee Brindles have talented noses and beautiful voices that sing out when they\u2019re on the trail. They\u2019re also affectionate with their humans and easy to groom! If you\u2019re looking for a hunting companion or an energetic family member who\u2019ll keep you on your toes, this may be the breed for you.\nSee below for all dog breed traits and facts about Treeing Tennessee Brindles!",
+  "description": {
+    "": "The Treeing Tennessee Brindle stands out from other trailing dogs for his brindle coat, strong scenting ability, and versatility. He sniffs out all kinds of game and sends it up a tree, holding it there until the hunter arrives.A descendant of the Old Brindle Cur dog, he comes from the piney woods of the Ozark Mountains, the deep hollows of the Appalachian Mountains, and everywhere in between. The breed's promoter was Rev. Earl Phillips, who gathered information about them in the 1960s. In 1967, the Treeing Tennessee Brindle Breeders Association was formed to preserve the brindle-colored cur dogs with their intelligent, courageous, and companionable temperaments.The TTB's primary characteristic is his brindle coat. He's smaller than the Plott, with a shorter ear and a different build. He's acclaimed for his good voice and sings out when he's on the trail. Despite the emphasis on the brindle coat in the name, when it comes to this breed, performance is paramount.",
+    "Size": "Males stand 18 to 24 inches at the shoulder and females stand 16 to 22 inches. Weight is proportionate to height, ranging between 30 to 45 pounds.",
+    "Coat Color And Grooming": "The short, smooth coat comes in brindle or black with brindle trim. Some dogs have white markings on the breast or feet."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Hound Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "16 to 24 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "30 to 45 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 12 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 3
+    }
+  ]
+}

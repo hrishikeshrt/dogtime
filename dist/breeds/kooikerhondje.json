@@ -1,0 +1,186 @@
+{
+  "id": "kooikerhondje",
+  "url": "https://dogtime.com/dog-breeds/kooikerhondje",
+  "name": "Kooikerhondje",
+  "intro": "The good-natured Kooikerhondje hunting dog breed makes an affectionate family companion. Suspected to be an ancestor of the Nova Scota Duck Tolling Retriever, they hail from Holland and were used to lure ducks into traps for hunting or tagging. They still serve as hunting dogs, but also excel at other dog sports such as flyball.\nAlthough these are purebred dogs, you may find them in the care of shelters or rescues. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nKooikerhondjes have plenty of energy, so they\u2019ll need lots of exercise. Make sure your pooch gets enough daily walks, and consider training them for dog sports competitons \u2014 or just for fun. Couch potatoes beware! These dogs will be much happier if you can provide the mental and physical stimulation they crave.\nSee below for complete list of dog breed traits and facts about Kooikerhondjes!",
+  "description": {
+    "": "No, the name doesn't translate to cookie dog, although he no doubt enjoys them as much as any other breed. Originating in the Netherlands, this cheerful spaniel appears in paintings dating back to the sixteenth century. He served as a hunting dog, luring ducks within range so they can be shot or tagged, much like the Nova Scotia Duck Tolling Retriever. In fact, the Kooiker is thought to be the ancestor of the Toller.Friendly, good-natured, and alert, the Kooiker is an excellent family companion with watch dog skills as well as athletic ability that makes him a natural at games such as agility and flyball. As a retriever, he also loves playing fetch, especially in the water. His exercise needs are adaptable: A long, slow stroll around the block or a strenuous hike will suit him equally well. Just be sure he's conditioned first before you start him on any heavy exercise.Introduce the Kooiker to cats or other dogs when he's young and he'll get along fine with them. Expect him to be reserved toward strangers but eagerly welcoming of friends and family. The Kooiker is smart and willing to learn, so take advantage of those traits and begin training early.",
+    "Size": "Kooikers stand 14 to 16 inches at the shoulder and weigh 20 to 25 pounds.",
+    "Coat Color And Grooming": "The thick, medium-length Kooiker coat is straight or has a slight wave. The color ranges from orange to deep chestnut red on a white background. On the ears are black tips known as earrings. Light feathering adorns the legs, and the predominantly white tail is well feathered.A good brushing every week \u2014 more often during shedding season \u2014 should keep your Kooiker's coat in good condition. The coat is naturally waterproof, and will stay fairly clean on its own. Give your Kooiker a bath only if he's gotten into something smelly, as bathing can actually interfere with the coat's dirt-repelling powers."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "14 to 16 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "20 to 25 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "12 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 2
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 4
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "irish-red-and-white-setter",
+  "url": "https://dogtime.com/dog-breeds/irish-red-and-white-setter",
+  "name": "Irish Red And White Setter",
+  "intro": "The Irish Red and White Setter dog breed barely escaped extinction when most breeders began focusing on the all-red varieties. Now they\u2019re considered a separate breed from their Irish Setter cousins.\nEven though these are purebred dogs, you may find them in the care of shelters or rescue groups. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nAs gundogs, the Irish Red and White Setters are slow to train but eventually become loyal and reliable hunters. They can also be great family companions, though their high energy and exercise needs make them a poor choice for apartment dwellers or those who can\u2019t keep up with them physically. If you can provide them with plenty of activity for their body and brain, this may be the breed for you!\nSee below for complete list of dog breed traits and facts about Irish Red and White Setters!",
+  "description": {
+    "": "Early Irish Setters came in red or red and white, but eventually breeders began to focus only on the red varieties, and the red-and-white setters almost disappeared. They were saved from extinction, however, and now they're considered a separate breed from their Irish Setter cousins.As gundogs, they take their own sweet time in learning their duties, but eventually become loyal and reliable hunters. They display a strong zest for life and make great friends for kids who are big enough to stand up to their rambunctious play. Give them a home with lots of room to run, and be prepared to train them with patience and consistency.",
+    "Size": "Males stand 24 to 26 inches at the shoulder; females, 22. 5 to 24 inches. Irish Red and White Setters generally weigh between 50 to 70 pounds.",
+    "Coat Color And Grooming": "The long, silky coat is white with deep patches of red. The backs of the legs, the outer ear flap, the chest and throat, and the tail are adorned with straight, flat feathering."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "22 to 26 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "50 to 70 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "10 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 1
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 2
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 2
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 5
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "stabyhoun",
+  "url": "https://dogtime.com/dog-breeds/stabyhoun",
+  "name": "Stabyhoun",
+  "intro": "Affectionate and tolerant, the Stabyhoun hunting dog breed gets along with people, kids, and other pets. However, like all sporting breeds, they need a great deal of exercise to stay happy and calm. They excel at water retrieving in particular, but also enjoy other canine sports.\nAlthough these are purebred dogs, you may find them in the care of shelters or rescues. Remember to adopt! Don\u2019t shop if you want to bring a dog home.\nStabyhouns get along well with everyone in the family, even kids and other pets. They make for intelligent, playful companions, and they take to training with ease. Just make sure you can give them plenty of exercise and mental stimulation, and you\u2019ll have a happy friend for life.\nSee below for complete list of dog breed traits and facts about Stabyhouns!",
+  "description": {
+    "": "The Stabyhoun originated in the northeastern region of the Netherlands, where he was used as an all around hunting and watch dog. His name is believed to be derived from the Dutch words for \"stand by me dog.\"He's an excellent retriever, especially from water, so if you have a pool or live near a lake, he'll be in seventh heaven. Like most sporting breeds, he's friendly, tolerant, and willing to please. In addition to hunting, he enjoys participating in dog sports such as agility, flyball, and obedience.The Stabyhoun loves spending time with his people and is chummy with children and other pets. Begin training early to take advantage of his intelligence and desire to be with you.",
+    "Size": "Ideally, males stand about 20.5 inches at the shoulder and weigh about 50 pounds. Females are slightly smaller, standing 19 inches at the shoulder and weighing about 45 pounds.",
+    "Coat Color And Grooming": "The Stabyhoun's long, sleek coat comes in black, brown, and orange with white markings. Regular brushing will keep the coat tangle-free and minimize shedding. Unless your Stabyhoun's gotten into something particularly smelly, he doesn't need bathing; baths can ruin the sleekness of the coat."
+  },
+  "vitals": [
+    {
+      "name": "Dog Breed Group",
+      "value": "Sporting Dogs"
+    },
+    {
+      "name": "Height",
+      "value": "19 to 20 inches tall at the shoulder"
+    },
+    {
+      "name": "Weight",
+      "value": "45 to 50 pounds"
+    },
+    {
+      "name": "Life Span",
+      "value": "13 to 14 years"
+    }
+  ],
+  "traits": [
+    {
+      "name": "Adaptability",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Adapts Well To Apartment Living",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Good For Novice Owners",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Sensitivity Level",
+      "parent": "Adaptability",
+      "stars": 4
+    },
+    {
+      "name": "Tolerates Being Alone",
+      "parent": "Adaptability",
+      "stars": 3
+    },
+    {
+      "name": "Tolerates Cold Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "Tolerates Hot Weather",
+      "parent": "Adaptability",
+      "stars": 2
+    },
+    {
+      "name": "All Around Friendliness",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Affectionate With Family",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Kid-Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 5
+    },
+    {
+      "name": "Dog Friendly",
+      "parent": "All Around Friendliness",
+      "stars": 4
+    },
+    {
+      "name": "Friendly Toward Strangers",
+      "parent": "All Around Friendliness",
+      "stars": 3
+    },
+    {
+      "name": "Health And Grooming Needs",
+      "parent": null,
+      "stars": 3
+    },
+    {
+      "name": "Amount Of Shedding",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Drooling Potential",
+      "parent": "Health And Grooming Needs",
+      "stars": 1
+    },
+    {
+      "name": "Easy To Groom",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "General Health",
+      "parent": "Health And Grooming Needs",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Weight Gain",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Size",
+      "parent": "Health And Grooming Needs",
+      "stars": 3
+    },
+    {
+      "name": "Trainability",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Easy To Train",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Intelligence",
+      "parent": "Trainability",
+      "stars": 5
+    },
+    {
+      "name": "Potential For Mouthiness",
+      "parent": "Trainability",
+      "stars": 1
+    },
+    {
+      "name": "Prey Drive",
+      "parent": "Trainability",
+      "stars": 4
+    },
+    {
+      "name": "Tendency To Bark Or Howl",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Wanderlust Potential",
+      "parent": "Trainability",
+      "stars": 3
+    },
+    {
+      "name": "Physical Needs",
+      "parent": null,
+      "stars": 4
+    },
+    {
+      "name": "Energy Level",
+      "parent": "Physical Needs",
+      "stars": 3
+    },
+    {
+      "name": "Intensity",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Exercise Needs",
+      "parent": "Physical Needs",
+      "stars": 4
+    },
+    {
+      "name": "Potential For Playfulness",
+      "parent": "Physical Needs",
+      "stars": 5
+    }
+  ]
+}
