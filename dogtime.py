@@ -40,6 +40,8 @@ IGNORE = [
 
 
 class DogTime(requests.Session):
+    """DogTime Session"""
+
     SERVER = 'dogtime.com'
     SITEMAP = {
         'quiz': 'quiz/dog-breed-selector',
@@ -56,7 +58,7 @@ class DogTime(requests.Session):
         'quality': 'dog-breeds/characteristics'
     }
 
-    def __init__(self, data_dir=DATA_DIR, use_cache=True, *args, **kwargs):
+    def __init__(self, data_dir=DATA_DIR, use_cache=True, **kwargs):
         self.data_dir = data_dir
         self.use_cache = use_cache
         self.groups_dir = os.path.join(self.data_dir, 'groups')
@@ -71,19 +73,24 @@ class DogTime(requests.Session):
         ]:
             os.makedirs(required_dir, exist_ok=True)
 
-        super().__init__(*args, **kwargs)
+        super().__init__(**kwargs)
         self.headers.update(HEADERS)
         self.logger = logging.getLogger(self.__class__.__name__)
 
     def get_url(self, url_key):
+        '''Construct a general URL using SITEMAP'''
         if self.SITEMAP.get(url_key):
             return f"https://{self.SERVER}/{self.SITEMAP[url_key]}"
+        return None
 
     def build_url(self, item_type, item_id):
+        '''Build a URL for a specific group, trait or dog breed'''
         if item_type in self.URL:
             return f"https://{self.SERVER}/{self.URL[item_type]}/{item_id}"
+        return None
 
     def extract_id(self, url_or_id):
+        '''Extract ID from a valid group, trait or breed URL'''
         if '/' not in url_or_id:
             return url_or_id
 
@@ -95,8 +102,10 @@ class DogTime(requests.Session):
         if m:
             url_id = m.group(5)
             return url_id
+        return None
 
     def get_all_groups(self):
+        '''Fetch names and links to all dog breed groups'''
         groups_file = os.path.join(self.data_dir, 'groups.json')
         if os.path.isfile(groups_file) and self.use_cache:
             with open(groups_file) as f:
@@ -131,6 +140,7 @@ class DogTime(requests.Session):
         return groups
 
     def get_group_details(self, group_url_or_id):
+        '''Fetch details about a dog breed group'''
         group_id = self.extract_id(group_url_or_id)
 
         group_file = os.path.join(self.groups_dir, f'{group_id}.json')
@@ -140,24 +150,24 @@ class DogTime(requests.Session):
             return group
 
         group_url = self.build_url('group', group_id)
-        content = self.get(group_url).content.decode()
-        soup = BeautifulSoup(content, 'html.parser')
+        html = self.get(group_url).content.decode()
+        soup = BeautifulSoup(html, 'html.parser')
         article_div = soup.find('div', class_='category-article-main')
 
         group_name = article_div.find('h1').get_text().strip()
 
         paragraphs = article_div.find_all('p', class_=None)
-        text = '\n'.join([p.get_text() for p in paragraphs])
+        description = '\n'.join([p.get_text() for p in paragraphs])
 
-        ul = soup.find('ul', class_='breed-thumbnail-column-list')
-        breed_links = ul.find_all('a', class_='list-item-img')
+        breed_ul = soup.find('ul', class_='breed-thumbnail-column-list')
+        breed_links = breed_ul.find_all('a', class_='list-item-img')
         members = [self.extract_id(a['href']) for a in breed_links]
 
         group = {
             'id': self.extract_id(group_url),
             'name': group_name,
             'url': group_url,
-            'description': text,
+            'description': description,
             'members': members
         }
 
@@ -166,6 +176,7 @@ class DogTime(requests.Session):
         return group
 
     def get_all_traits(self):
+        '''Fetch names and links to all dog traits'''
         traits_file = os.path.join(self.data_dir, 'traits.json')
         if os.path.isfile(traits_file) and self.use_cache:
             with open(traits_file) as f:
@@ -198,6 +209,7 @@ class DogTime(requests.Session):
         return traits
 
     def get_trait_details(self, trait_url_or_id):
+        '''Fetch details about a dog trait'''
         trait_id = self.extract_id(trait_url_or_id)
 
         trait_file = os.path.join(self.traits_dir, f'{trait_id}.json')
@@ -250,6 +262,7 @@ class DogTime(requests.Session):
         return trait
 
     def get_all_breeds(self):
+        '''Fetch names and links to all dog breeds'''
         breeds_file = os.path.join(self.data_dir, 'breeds.json')
         if os.path.isfile(breeds_file) and self.use_cache:
             with open(breeds_file) as f:
@@ -278,6 +291,7 @@ class DogTime(requests.Session):
         return breeds
 
     def get_breed_details(self, breed_url_or_id):
+        '''Fetch details about a dog breed'''
         breed_id = self.extract_id(breed_url_or_id)
 
         breed_file = os.path.join(self.breeds_dir, f'{breed_id}.json')
@@ -388,6 +402,14 @@ class DogTime(requests.Session):
         return breed
 
     def get_breed_selector_questions(self):
+        '''
+        Fetch questions from Breed Selector Quiz
+
+        TODO:
+            * Implement CLI for taking the quiz -
+                - either through requests
+                - or by a local implementation
+        '''
         quiz_file = os.path.join(self.data_dir, 'quiz.json')
         if os.path.isfile(quiz_file) and self.use_cache:
             with open(quiz_file) as f:
@@ -431,6 +453,7 @@ class DogTime(requests.Session):
         return questions
 
     def get_all_data(self):
+        '''Fetch all possible data'''
         self.logger.debug("Fetching groups ...")
         groups = self.get_all_groups()
         self.logger.debug(f"Fetched {len(groups)} groups.")
@@ -457,6 +480,7 @@ class DogTime(requests.Session):
         self.logger.debug(f"Fetched {len(questions)} questions.")
 
     def prepare_table(self):
+        '''Prepare tabular data of all dog breeds available'''
         self.get_all_data()
 
         all_breeds = [breed['id'] for breed in self.get_all_breeds()]
@@ -492,8 +516,8 @@ class DogTime(requests.Session):
 
             breeds_data.append(breed_data)
 
-        df = pd.DataFrame(breeds_data)
-        df.to_csv(os.path.join(self.data_dir, 'breed_stats.csv'), index=False)
+        df = pd.DataFrame(breeds_data, dtype='object')
+        df.to_csv(os.path.join(self.data_dir, 'stats.csv'), index=False)
 
         return breeds_data, df
 
@@ -502,4 +526,4 @@ class DogTime(requests.Session):
 
 if __name__ == '__main__':
     D = DogTime()
-    D.prepare_table()
+    data, df = D.prepare_table()
