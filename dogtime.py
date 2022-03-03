@@ -277,7 +277,7 @@ class DogTime(requests.Session):
             breed_url = breed['href']
             _breed_img = breed.find('img', class_='list-item-breed-img')
             breed_name = _breed_img['alt']
-            breed_image = _breed_img['src']
+            breed_image = _breed_img['data-lazy-src']
             breeds.append({
                 'id': self.extract_id(breed_url),
                 'name': breed_name,
