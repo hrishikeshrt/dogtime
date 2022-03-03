@@ -3,7 +3,7 @@
   "url": "https://dogtime.com/dog-breeds/characteristics/energy-level",
   "name": "Energy Level",
   "short": "Dog Breeds That Have Higher Energy Levels",
-  "description": "High-energy dogs are always ready and waiting for action. Originally bred to perform a canine job of some sort, such as retrieving game for hunters or herding livestock, they have the stamina to put in a full workday. They need a significant amount of exercise and mental stimulation, and they're more likely to spend time jumping, playing, and investigating any new sights and smells.\nLow-energy dogs are the canine equivalent of a couch potato, content to doze the day away. When picking a breed, consider your own activity level and lifestyle, and think about whether you'll find a frisky, energetic dog invigorating or annoying.\nYour dog's energy level can also be affected by health issues. Adding Glyde Mobility Chews to your pet's routine can improve their joint health and keep them moving!",
+  "description": "High-energy dogs are always ready and waiting for action. Originally bred to perform a canine job of some sort, such as retrieving game for hunters or herding livestock, they have the stamina to put in a full workday. They need a significant amount of exercise and mental stimulation, and they're more likely to spend time jumping, playing, and investigating any new sights and smells.\nLow-energy dogs are the canine equivalent of a couch potato, content to doze the day away. When picking a breed, consider your own activity level and lifestyle, and think about whether you'll find a frisky, energetic dog invigorating or annoying.",
   "related-traits": [
     "low-energy-dogs"
   ],
@@ -141,6 +141,7 @@
     "miniature-pinscher",
     "miniature-schnauzer",
     "mountain-cur",
+    "mountain-feist",
     "mudi",
     "norfolk-terrier",
     "northern-inuit-dog",
@@ -206,6 +207,7 @@
     "west-highland-white-terrier",
     "whippet",
     "wirehaired-pointing-griffon",
+    "yakutian-laika",
     "yorkipoo",
     "yorkshire-terrier"
   ]

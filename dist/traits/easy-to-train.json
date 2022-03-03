@@ -3,7 +3,7 @@
   "url": "https://dogtime.com/dog-breeds/characteristics/easy-to-train",
   "name": "Easy To Train",
   "short": "Dog Breeds That Are Easier To Train",
-  "description": "Easy-to-train dogs are more adept at forming an association between a prompt (such as the word \"sit\"), an action (sitting), and a consequence (getting a treat) very quickly. Other dogs need more time, patience, and repetition during training.\nMany breeds are intelligent but approach training with a \"What's in it for me?\" attitude, in which case you'll need to use rewards and games to teach them to want to comply with your requests. You should check out Glyde Mobility Chews for treats that can actually improve your dog's joint health to get you started!",
+  "description": "Easy-to-train dogs are more adept at forming an association between a prompt (such as the word \"sit\"), an action (sitting), and a consequence (getting a treat) very quickly. Other dogs need more time, patience, and repetition during training.\nMany breeds are intelligent but approach training with a \"What's in it for me?\" attitude, in which case you'll need to use rewards and games to teach them to want to comply with your requests.",
   "related-traits": [
     "challenging-to-train"
   ],
@@ -146,6 +146,7 @@
     "west-highland-white-terrier",
     "whippet",
     "wirehaired-pointing-griffon",
+    "yakutian-laika",
     "yorkipoo"
   ]
 }

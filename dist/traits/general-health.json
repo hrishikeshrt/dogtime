@@ -3,7 +3,7 @@
   "url": "https://dogtime.com/dog-breeds/characteristics/general-health",
   "name": "General Health",
   "short": "Dog Breeds That Generally Have Good Health",
-  "description": "Due to poor breeding practices, some breeds are prone to certain genetic health problems, such as hip dysplasia. This doesn't mean that every dog of that breed will develop those diseases; it just means that they're at an increased risk.\nIf you're adopting a puppy, it's a good idea to find out which genetic illnesses are common to the breed you're interested in. You may also want to ask if your shelter or rescue has information about the physical health of your potential pup's parents and other relatives.\nMany dogs suffer from mobility issues as they approach old age. Giving your dog Glyde Mobility Chews can improve their joint health and keep them moving!",
+  "description": "Due to poor breeding practices, some breeds are prone to certain genetic health problems, such as hip dysplasia. This doesn't mean that every dog of that breed will develop those diseases; it just means that they're at an increased risk.\nIf you're adopting a puppy, it's a good idea to find out which genetic illnesses are common to the breed you're interested in. You may also want to ask if your shelter or rescue has information about the physical health of your potential pup's parents and other relatives.",
   "related-traits": [
     "prone-to-health-problems"
   ],
@@ -109,6 +109,7 @@
     "lowchen",
     "maremma-sheepdog",
     "mountain-cur",
+    "mountain-feist",
     "mudi",
     "norfolk-terrier",
     "northern-inuit-dog",
@@ -163,6 +164,7 @@
     "whippet",
     "wirehaired-pointing-griffon",
     "xoloitzuintli",
+    "yakutian-laika",
     "yorkshire-terrier"
   ]
 }

@@ -1302,6 +1302,12 @@
     "image": "https://www.dogtime.com/assets/uploads/2011/01/file_23108_havanese-300x189.jpg"
   },
   {
+    "id": "havapoo",
+    "name": "Havapoo",
+    "url": "https://dogtime.com/dog-breeds/havapoo",
+    "image": "https://www.dogtime.com/assets/uploads/2020/11/havapoo-hybrid-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
     "id": "hokkaido",
     "name": "Hokkaido",
     "url": "https://dogtime.com/dog-breeds/hokkaido",
@@ -1642,6 +1648,12 @@
     "name": "Mountain Cur",
     "url": "https://dogtime.com/dog-breeds/mountain-cur",
     "image": "https://www.dogtime.com/assets/uploads/2020/07/mountain-cur-dog-breed-pictures-cover-650x368.jpg"
+  },
+  {
+    "id": "mountain-feist",
+    "name": "Mountain Feist",
+    "url": "https://dogtime.com/dog-breeds/mountain-feist",
+    "image": "https://www.dogtime.com/assets/uploads/2020/12/Mountain-Feist-dog-breed-pictures-cover-650x368.jpg"
   },
   {
     "id": "mudi",
@@ -2320,6 +2332,12 @@
     "name": "Xoloitzcuintli",
     "url": "https://dogtime.com/dog-breeds/xoloitzuintli",
     "image": "https://www.dogtime.com/assets/uploads/2012/02/file_23296_Xoloitzcuintli-dog-breed-300x189.jpg"
+  },
+  {
+    "id": "yakutian-laika",
+    "name": "Yakutian Laika",
+    "url": "https://dogtime.com/dog-breeds/yakutian-laika",
+    "image": "https://www.dogtime.com/assets/uploads/2020/11/Yakutian-Laika-dog-breed-pictures-cover-650x368.jpg"
   },
   {
     "id": "yorkipoo",

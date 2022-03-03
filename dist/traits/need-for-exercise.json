@@ -3,7 +3,7 @@
   "url": "https://dogtime.com/dog-breeds/characteristics/need-for-exercise",
   "name": "Exercise Needs",
   "short": "Dog Breeds That Need A Lot Of Exercise",
-  "description": "Some breeds do fine with a slow evening stroll around the block. Others need daily, vigorous exercise, especially those that were originally bred for physically demanding jobs, like herding or hunting.\nWithout enough exercise, these breeds may put on weight and vent their pent-up energy in ways you don't like, such as barking, chewing, and digging. Breeds that need a lot of exercise are good for outdoorsy, active people, or those interested in training their dog to compete in a high-energy dog sport, such as agility.\nEven older dogs need exercise, and it can help fight symptoms of arthritis and other age-related conditions. Adding Glyde Mobility Chews to your dog's routine can give your dog the joint supplements they need to stay active well into old age.",
+  "description": "Some breeds do fine with a slow evening stroll around the block. Others need daily, vigorous exercise, especially those that were originally bred for physically demanding jobs, like herding or hunting.\nWithout enough exercise, these breeds may put on weight and vent their pent-up energy in ways you don't like, such as barking, chewing, and digging. Breeds that need a lot of exercise are good for outdoorsy, active people, or those interested in training their dog to compete in a high-energy dog sport, such as agility.",
   "related-traits": [
     "dont-need-tons-of-exercise"
   ],
@@ -139,6 +139,7 @@
     "miniature-pinscher",
     "miniature-schnauzer",
     "mountain-cur",
+    "mountain-feist",
     "mudi",
     "norfolk-terrier",
     "northern-inuit-dog",
@@ -203,6 +204,7 @@
     "west-highland-white-terrier",
     "whippet",
     "wirehaired-pointing-griffon",
+    "yakutian-laika",
     "yorkshire-terrier"
   ]
 }

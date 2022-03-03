@@ -3,7 +3,7 @@
   "url": "https://dogtime.com/dog-breeds/characteristics/potential-for-playfulness",
   "name": "Potential For Playfulness",
   "short": "Dog Breeds That Are More Playful",
-  "description": "Some dogs are perpetual puppies -- always begging for a game -- while others are more serious and sedate. Although a playful pup sounds endearing, consider how many games of fetch or tag you want to play each day, and whether you have kids or other dogs who can stand in as playmates for the dog.\nYou may want to consider adopting an older dog. Seniors can remain playful well into old age and have fewer demands than young dogs. Adding Glyde Mobility Chews to your senior's routine can help fight the symptoms of arthritis and keep your old dog active and playful.",
+  "description": "Some dogs are perpetual puppies -- always begging for a game -- while others are more serious and sedate. Although a playful pup sounds endearing, consider how many games of fetch or tag you want to play each day, and whether you have kids or other dogs who can stand in as playmates for the dog.",
   "related-traits": [
     "not-playful"
   ],
@@ -155,6 +155,7 @@
     "miniature-pinscher",
     "miniature-schnauzer",
     "mountain-cur",
+    "mountain-feist",
     "mudi",
     "neapolitan-mastiff",
     "newfoundland",
@@ -224,6 +225,7 @@
     "west-highland-white-terrier",
     "whippet",
     "wirehaired-pointing-griffon",
+    "yakutian-laika",
     "yorkipoo",
     "yorkshire-terrier"
   ]

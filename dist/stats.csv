@@ -216,6 +216,7 @@ hamiltonstovare,Hamiltonstovare,hounds,19 to 24 inches,40 to 75 pounds,14 to 17 
 hanoverian-scenthound,Hanoverian Scenthound,working-dogs,19 to 22 inches,80 to 100 pounds,12 to 14 years,2,1,4,3,3,3,5,5,4,3,2,1,4,4,3,4,2,4,2,4,3,2,4,3,4,4
 harrier,Harrier,hounds,19 to 21 inches tall at the shoulder,45 to 60 pounds,10 to 12 years,1,3,2,3,3,4,4,5,5,5,3,1,5,5,3,3,2,4,3,4,4,5,5,4,5,5
 havanese,Havanese,companion-dogs,8 to 11 inches tall at the shoulder,7 to 13 pounds,12 to 15 years,5,5,4,1,3,4,5,4,5,5,2,1,1,3,4,2,5,4,3,4,2,2,3,2,3,5
+havapoo,Havapoo,mixed-breeds,8 to 15 inches,7 to 30 pounds,10 to 14 years,5,5,4,1,3,4,5,4,4,4,1,1,1,3,4,2,5,5,3,3,2,3,3,2,3,5
 hokkaido,Hokkaido,working-dogs,18 to 22 Inches,45 to 65 Pounds,11 to 13 Years,3,2,2,3,5,2,4,4,3,3,4,2,1,5,3,3,3,4,3,4,3,3,3,2,3,3
 horgi,Horgi,mixed-breeds,12 to 15 inches,20 to 50 pounds,12 to 15 years,2,2,4,2,4,3,5,5,4,5,4,2,3,3,3,2,4,4,4,4,3,3,4,3,4,4
 hovawart,Hovawart,working-dogs,23 to 29 inches,55 to 110 pounds,10 to 14 years,1,2,3,2,4,3,4,4,2,2,3,1,4,4,3,4,2,4,2,2,2,2,4,4,4,4
@@ -273,6 +274,7 @@ miniature-pinscher,Miniature Pinscher,companion-dogs,10 to 12 inches tall at the
 miniature-schnauzer,Miniature Schnauzer,terriers,13 to 14 inches tall at the shoulder,11 to 20 pounds,12 to 14 years,4,3,4,5,4,4,5,3,3,3,2,1,2,3,4,2,5,4,2,4,3,3,5,3,5,4
 morkie,Morkie,mixed-breeds,4 to 8 inches,7 to 13 pounds,10 to 14 years,3,2,3,2,2,3,4,3,2,3,1,1,3,4,4,1,3,4,5,3,5,2,4,3,4,5
 mountain-cur,Mountain Cur,working-dogs,16 to 26 inches,30 to 60 pounds,10 to 16 years,1,1,3,2,4,4,4,4,3,2,2,1,4,5,1,4,2,4,2,5,3,4,4,4,5,4
+mountain-feist,Mountain Feist,terriers,10 to 22 inches,10 to 30 pounds,10 to 18 years,2,1,4,3,4,3,5,3,3,2,3,4,5,4,1,2,3,3,4,5,4,4,4,4,4,5
 mudi,Mudi,herding-dogs,14 to 20 inches,18 to 29 pounds,12 to 14 years,2,4,4,2,3,3,4,2,2,2,3,1,4,4,2,2,5,4,3,4,4,4,4,2,4,4
 mutt,Mutt (Mixed),mixed-breeds,,,8 to 15 years,3,3,3,3,3,3,4,3,3,3,3,3,3,4,3,3,4,4,3,3,3,3,3,3,3,3
 neapolitan-mastiff,Neapolitan Mastiff,working-dogs,24 to 31 inches tall at the shoulder,120 to 200 pounds,8 to 10 years,2,1,4,1,1,2,5,4,2,1,3,5,3,2,5,5,3,3,2,1,1,1,3,1,3,4
@@ -386,5 +388,6 @@ whippet,Whippet,hounds,18 to 22 inches tall at the shoulder,18 to 48 pounds,12 t
 whoodle,Whoodle,mixed-breeds,12 to 20 inches,20 to 45 pounds,12 to 15 years,4,1,3,1,4,2,4,4,3,4,2,1,3,4,2,3,2,4,1,2,1,3,4,4,4,4
 wirehaired-pointing-griffon,Wirehaired Pointing Griffon,sporting-dogs,20 to 24 inches tall at the shoulder,50 to 60 pounds,10 to 14 years,1,3,4,1,4,3,5,5,4,5,1,1,3,4,3,3,5,5,3,4,4,4,5,3,4,5
 xoloitzuintli,Xoloitzcuintli,companion-dogs,"1 foot, 6 inches to 1 foot, 11 inches tall at the shoulder",10 to 50 pounds,14 to 20 years,5,1,5,1,3,3,5,3,2,1,1,1,5,5,3,3,3,5,3,5,5,5,3,3,3,3
+yakutian-laika,Yakutian Laika,working-dogs,20 to 23 inches,40 to 55 pounds,10 to 12 years,1,3,3,1,5,3,5,4,4,4,4,2,3,4,3,3,4,4,2,3,4,3,4,3,5,4
 yorkipoo,Yorkipoo,hybrids,7 to 15 inches tall at the shoulder,3 to 14 pounds,10 to 15 years,5,5,4,3,2,3,5,4,3,2,1,1,4,3,2,1,4,4,3,3,5,2,5,3,3,4
 yorkshire-terrier,Yorkshire Terrier,companion-dogs,8 to 9 inches tall at the shoulder,4 to 6 pounds,12 to 15 years,5,4,5,2,2,2,4,2,3,2,2,1,2,4,2,1,3,3,2,2,3,3,5,4,4,5
